@@ -1,6 +1,6 @@
 ### Hi 👋 Yangkong 😋
 
-<img alt="Javascript" src ="https://simpleicons.org/icons/javascript.svg"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
 
 [![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-YangKong&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
