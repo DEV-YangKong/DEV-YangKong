@@ -1,7 +1,6 @@
 ### Hi 👋 Yangkong 😋
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github-#F7DF1E?style=flat-square&logo=Github&logoColor=white"/>
+
 
 
 [![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-YangKong&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
