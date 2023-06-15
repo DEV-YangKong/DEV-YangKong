@@ -12,8 +12,8 @@
 
 ---
 
-![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-YangKong&show_icons=true&theme=radical&count_private=true)
+![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&show_icons=true&theme=radical&count_private=true)
 
-![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-YangKong&layout=compact&theme=radical)
+![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=compact&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_yangkong)](https://solved.ac/dev_yangkong/)
