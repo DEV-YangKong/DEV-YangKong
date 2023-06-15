@@ -1,7 +1,10 @@
 # Hi 🙌
 
 - 👨‍💻I am a Yangkong(nickname). I am studying to become a `front-end developer` in <img src="south-korea.png" width="20"/> <b>South Korea</b>
+
 - 👨‍🎓I majored in `international trade` at `Namseoul University`
+
+---
 
 ![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-YangKong&show_icons=true&theme=radical&count_private=true)
 
