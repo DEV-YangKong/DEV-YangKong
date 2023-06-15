@@ -1,4 +1,4 @@
-# Hi ! 👋🏻👋🏻
+<div align=center><h1>Hi ! 👋🏻👋🏻</h1></div>
 
 - 👩🏻 My name is `Yangkong`(nickname).
 
