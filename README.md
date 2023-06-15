@@ -10,7 +10,7 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23CDB4DB&title_bg=%23555555&icon=github.svg&icon_color=%23CDB4DB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-YangKong&count_bg=%23CDB4DB&title_bg=%23555555&icon=github.svg&icon_color=%23CDB4DB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://dev-yangkong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/My tech blog-ffafcc?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://dev-yangkong.tistory.com/"/></a>
 <a href="https://www.instagram.com/dev.yangkong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a2d2ff?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
