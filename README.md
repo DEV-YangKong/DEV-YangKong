@@ -1,5 +1,7 @@
 <div align=center><h1>Hi ! 👋🏻👋🏻</h1></div>
 
+<br/><br/>
+
 - 👩🏻 My name is `Yangkong`(nickname).
 
 - 👩🏻‍💻 I am studying to become a `WEB Developer` in <img src="south-korea.png" width="20"/> <b>South Korea</b> or <img src="USA.png" width="20"/> <b>U.S.A</b>
