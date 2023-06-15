@@ -12,7 +12,7 @@
 
 ---
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 MY STACKS</h1></div>
 
 <div align=center>
 
@@ -60,8 +60,12 @@
 
 ---
 
+<div align=center>
+
 ![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&show_icons=true&theme=radical&count_private=true)
 
 ![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=compact&theme=radical)
+
+</div align=center>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_yangkong)](https://solved.ac/dev_yangkong/)
