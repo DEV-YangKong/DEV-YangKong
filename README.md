@@ -2,7 +2,7 @@
 
 - 👩🏻 My name is `Yangkong`(nickname).
 
-- 👩🏻‍💻 I am studying to become a `Web developer` in <img src="south-korea.png" width="20"/> <b>South Korea</b> or <img src="USA.png" width="20"/> <b>U.S.A</b>
+- 👩🏻‍💻 I am studying to become a `WEB Developer` in <img src="south-korea.png" width="20"/> <b>South Korea</b> or <img src="USA.png" width="20"/> <b>U.S.A</b>
 
 - 👩🏻‍🎓 I majored in `international trade` at `Namseoul University`
 
