@@ -1,9 +1,13 @@
 <div align=center>
   <h1>Hi ! 👋🏻👋🏻</h1>
-  <br/><br/>
-  <h2>This is Yangkong's Github</h2>
-  <br/><br/>
-  <img src="ykProfile.png" width="20%" height="10%"/>
+
+<br/><br/>
+
+## This is Yangkong's Github
+
+<br/><br/>
+<img src="ykProfile.png" width="20%" height="10%"/>
+
 </div>
 
 <br/><br/>
