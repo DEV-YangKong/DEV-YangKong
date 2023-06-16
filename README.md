@@ -16,7 +16,7 @@
 
 - 📖 I am participating in the `OZ Coding School` Bootcamp course that starts on `05/09/2023` and ends on `10/11/2023`.
 
-- 👩🏻‍🎓 I majored in `international trade` at `Namseoul University`.
+- 👩🏻‍🎓 I majored in `International Trade` at `Namseoul University`.
 
 <br/><br/>
 
