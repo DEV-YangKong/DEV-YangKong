@@ -2,8 +2,9 @@
   <h1>Hi ! 👋🏻👋🏻</h1>
 
 <br/><br/>
-`Yangkong's Github`
 <img src="ykProfile.png" width="20%" height="10%"/>
+<br/>
+`Yangkong's Github`
 
 </div>
 
