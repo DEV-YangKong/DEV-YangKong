@@ -1,6 +1,7 @@
 <div align=center>
   <h1>Hi ! 👋🏻👋🏻</h1>
-<span>This is Yangkong's Github</span>
+  <br/><br/>
+  <h2>This is Yangkong's Github</h2>
   <br/><br/>
   <img src="ykProfile.png" width="20%" height="10%"/>
 </div>
@@ -24,6 +25,8 @@
 <a href="https://www.instagram.com/dev.yangkong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a2d2ff?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 </div>
+
+<br/><br/>
 
 ---
 
