@@ -14,7 +14,7 @@
 
 - 👩🏻‍💻 I am studying to become a `WEB Developer` in <img src="south-korea.png" width="20"/> <b>South Korea</b> or <img src="USA.png" width="20"/> <b>U.S.A</b>.
 
-- 📖 I am participating in the `OZ coding School` Bootcamp course that starts on `05/09/2023` and ends on `10/11/2023`.
+- 📖 I am participating in the `OZ Coding School` Bootcamp course that starts on `05/09/2023` and ends on `10/11/2023`.
 
 - 👩🏻‍🎓 I majored in `international trade` at `Namseoul University`.
 
