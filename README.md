@@ -2,10 +2,7 @@
   <h1>Hi ! 👋🏻👋🏻</h1>
 
 <br/><br/>
-
-## This is Yangkong's Github
-
-<br/><br/>
+`Yangkong's Github`
 <img src="ykProfile.png" width="20%" height="10%"/>
 
 </div>
