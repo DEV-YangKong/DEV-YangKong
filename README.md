@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/tistory-ffafcc?style=for-the-badge&logo=tistory&logoColor=white">
   <img src="https://img.shields.io/badge/github-cdb4db?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br/>
+  <br/><br/>
 
 <!-- 학습되지 않은 기술 -->
 <!--
@@ -83,6 +83,8 @@
 -->
 
 ---
+
+<br/><br/>
 
 <div align=center>
 
