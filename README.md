@@ -1,5 +1,11 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=Waving&text=DEV-Yangkong&fontColor=ffffff&color=ffc8dd)
+
+</div>
+
 <div align=center>
-  <h1>Hi ! 👋🏻👋🏻</h1>
+  <h1>Welcome! 👋🏻👋🏻</h1>
 
 <br/><br/>
 <img src="ykProfile.png" width="20%" height="10%"/>
