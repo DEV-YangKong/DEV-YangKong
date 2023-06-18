@@ -51,7 +51,7 @@ dev.yangkong@gmail.com
 
 <div align=center>
 
-&#128161; Used as the main &#128161;
+&#128161; <strong>Used as the main</strong> &#128161;
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
@@ -66,7 +66,7 @@ dev.yangkong@gmail.com
 
 <br/>
 
-&#128218; Used at least once &#128218;
+&#128218; <strong>Used at least once</strong> &#128218;
 
 <div>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
