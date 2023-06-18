@@ -16,6 +16,23 @@
 
 <br/><br/>
 
+<div align=center>
+
+&#128172;SNS list&#128172;
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-YangKong&count_bg=%23ef476f&title_bg=%23555555&icon=github.svg&icon_color=%23ef476f&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://dev-yangkong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-ffd166?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://dev-yangkong.tistory.com/"/></a>
+<a href="https://www.instagram.com/dev.yangkong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-06d6a0?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+<br/>
+
+&#128140;Email&#128140;<br/>
+dev.yangkong@gmail.com
+
+</div>
+
+<br/><br/>
+
 - 👩🏻 My name is `Yangkong`(nickname)!
 
 - 👩🏻‍💻 I am studying to become a `WEB Developer` in <img src="south-korea.png" width="20"/> <b>South Korea</b> or <img src="USA.png" width="20"/> <b>U.S.A</b>.
@@ -26,42 +43,48 @@
 
 <br/><br/>
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-YangKong&count_bg=%23ef476f&title_bg=%23555555&icon=github.svg&icon_color=%23ef476f&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://dev-yangkong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/My tech blog-ffd166?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://dev-yangkong.tistory.com/"/></a>
-<a href="https://www.instagram.com/dev.yangkong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-06d6a0?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-</div>
-
-<br/><br/>
-
 ---
 
-<div align=center><h1>📚 MY STACKS</h1></div>
+<div align=center><h1>&#128279; TECH STACKS &#128279;</h1></div>
 
 <br/>
 
 <div align=center>
 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+&#128161; Used as the main &#128161;
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br/>
 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br/>
-
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br/>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </div>
 
+<br/>
+
+&#128218; Used at least once &#128218;
+
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+</div>
+
+<br/>
+
+&#128151;
+
+<div>
   <img src="https://img.shields.io/badge/tistory-ffafcc?style=for-the-badge&logo=tistory&logoColor=white">
   <img src="https://img.shields.io/badge/github-cdb4db?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br/><br/>
+</div>
+
+<br/><br/>
 
 ---
 
