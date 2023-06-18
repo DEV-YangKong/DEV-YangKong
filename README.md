@@ -18,6 +18,8 @@
 
 <div align=center>
 
+![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&show_icons=true&theme=radical&count_private=true)
+
 &#128172; <b>SNS list</b> &#128172;
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-YangKong&count_bg=%23ef476f&title_bg=%23555555&icon=github.svg&icon_color=%23ef476f&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -79,8 +81,11 @@ dev.yangkong@gmail.com
 &#128151;
 
 <div>
-  <img src="https://img.shields.io/badge/tistory-ffafcc?style=for-the-badge&logo=tistory&logoColor=white">
-  <img src="https://img.shields.io/badge/github-cdb4db?style=for-the-badge&logo=github&logoColor=white">
+  
+![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=compact&theme=radical)
+<br/>
+  <a href="https://dev-yangkong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ffd166?style=for-the-badge&logo=tistory&logoColor=white&link=https://dev-yangkong.tistory.com/"/></a>
+  <a href="https://github.com/DEV-Yangkong" target="_blank"><img src="https://img.shields.io/badge/github-cdb4db?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/DEV-Yangkong"></a>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
@@ -91,10 +96,6 @@ dev.yangkong@gmail.com
 <br/><br/>
 
 <div align=center>
-
-![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&show_icons=true&theme=radical&count_private=true)
-
-![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=compact&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_yangkong)](https://solved.ac/dev_yangkong/)
 
