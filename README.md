@@ -10,7 +10,7 @@
   <h1>Welcome! 👋🏻👋🏻</h1>
 
 <br/><br/>
-<img src="ykProfile.png" width="20%" height="10%"/>
+<img src="quoaka_circle.png" width="20%" height="10%"/>
 <br/>
 `Yangkong's Github`
 
