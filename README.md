@@ -49,7 +49,7 @@ dev.yangkong@gmail.com
 
 ---
 
-<div align=center><h1>📅 This week's study plan 📅</h1></div>
+<div align=center><h1>📅 This month's study plan 📅</h1></div>
 <br/>
 
 <div align=center>
