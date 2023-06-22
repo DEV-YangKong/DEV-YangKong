@@ -49,6 +49,34 @@ dev.yangkong@gmail.com
 
 ---
 
+<div align=center><h1>📅 This week's study plan 📅</h1></div>
+<br/>
+
+<div align=center>
+  
+<h2>Month 6
+
+|   날짜   |  요일  | 체크 | WEB | PY  | 코테(SUN,MON,THR,SAT) |     기타      |
+| :------: | :----: | :--: | :-: | :-: | :-------------------: | :-----------: |
+| 6월 22일 | 목요일 |      |  -  |     |                       | 파이썬에 집중 |
+| 6월 23일 | 금요일 |      |     |     |           -           |               |
+| 6월 24일 | 토요일 |      |     |     |                       |               |
+| 6월 25일 | 일요일 |      |     |     |                       |               |
+| 6월 26일 | 월요일 |      |     |     |                       |               |
+| 6월 27일 | 화요일 |      |     |     |           -           |               |
+| 6월 28일 | 수요일 |      |     |     |           -           |               |
+| 6월 29일 | 목요일 |      |     |     |                       |               |
+| 6월 30일 | 금요일 |      |     |     |           -           |               |
+| 7월 1일  | 토요일 |      |     |     |                       |               |
+
+</h2>
+
+</div align=center>
+
+<br/><br/>
+
+---
+
 <div align=center><h1>&#128279; TECH STACKS &#128279;</h1></div>
 
 <br/>
@@ -92,28 +120,6 @@ dev.yangkong@gmail.com
   <a href="https://github.com/DEV-Yangkong" target="_blank"><img src="https://img.shields.io/badge/github-cdb4db?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/DEV-Yangkong"></a>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
-<br/><br/>
-
----
-
-<div align=center><h1>📅 This week's study plan 📅</h1></div>
-<br/>
-
-<h2>Month 6/h2>
-
-|   날짜   |  요일  | 체크 | WEB | PY  | 코테(SUN,MON,THR,SAT) |     기타      |
-| :------: | :----: | :--: | :-: | :-: | :-------------------: | :-----------: |
-| 6월 22일 | 목요일 |      |  -  |     |                       | 파이썬에 집중 |
-| 6월 23일 | 금요일 |      |     |     |           -           |               |
-| 6월 24일 | 토요일 |      |     |     |                       |               |
-| 6월 25일 | 일요일 |      |     |     |                       |               |
-| 6월 26일 | 월요일 |      |     |     |                       |               |
-| 6월 27일 | 화요일 |      |     |     |           -           |               |
-| 6월 28일 | 수요일 |      |     |     |           -           |               |
-| 6월 29일 | 목요일 |      |     |     |                       |               |
-| 6월 30일 | 금요일 |      |     |     |           -           |               |
-| 7월 1일  | 토요일 |      |     |     |                       |               |
 
 <br/><br/>
 
