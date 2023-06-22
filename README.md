@@ -58,7 +58,7 @@ dev.yangkong@gmail.com
 
 |   날짜   | 요일 | 체크 | WEB | PY  | 코테(SUN,MON,THU,SAT) |     기타      |
 | :------: | :--: | :--: | :-: | :-: | :-------------------: | :-----------: |
-| 6월 22일 | THU  |      |  -  |     |           숫자비교하기 , 나이출력            | 파이썬에 집중 |
+| 6월 22일 | THU  |      |  -  |     |           <a href="https://github.com/DEV-Yangkong/testing-code/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120807.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0">숫자비교하기</a> , <a href="https://github.com/DEV-Yangkong/testing-code/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120820.%E2%80%85%EB%82%98%EC%9D%B4%E2%80%85%EC%B6%9C%EB%A0%A5">나이출력</a>            | 파이썬에 집중 |
 | 6월 23일 | FRI  |      |     |     |           -           |               |
 | 6월 24일 | SAT  |      |     |     |                       |               |
 | 6월 25일 | SUN  |      |     |     |                       |               |
