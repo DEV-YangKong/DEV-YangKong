@@ -39,7 +39,7 @@ dev.yangkong@gmail.com
 
 - 👩🏻 My name is `Yangkong`(nickname)!
 
-- 👩🏻‍💻 I am studying to become a `WEB Developer` in <img src="south-korea.png" width="20"/> <b>South Korea</b> or <img src="USA.png" width="20"/> <b>U.S.A</b>.
+- 👩🏻‍💻 I am studying to become a `Full-Stack WEB Developer` in <img src="south-korea.png" width="20"/> <b>South Korea</b> or <img src="USA.png" width="20"/> <b>U.S.A</b>.
 
 - 📖 I am participating in the `OZ Coding School` Bootcamp course that starts on `05/09/2023` and ends on `10/11/2023`.
 
