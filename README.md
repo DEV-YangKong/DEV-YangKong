@@ -49,12 +49,12 @@ dev.yangkong@gmail.com
 
 ---
 
-<div align=center><h1>📅 This month's study plan 📅</h1></div>
+<div align=center><h1>📚 What I studied this month 📚</h1></div>
 <br/>
 
 <div align=center>
   
-<h2> Month 6 </h2>
+<h2>📅 Month 6 📅</h2>
 
 |   DATE    | DJANGO | DATA |                           PYTHON                           | REACT(WEB) | PROJECT |        CODE TEST        |    _ETC_     |
 | :-------: | :----: | :--: | :-----------------------------------: | :--------: | :-----: | :---------------------: | :----------: |
