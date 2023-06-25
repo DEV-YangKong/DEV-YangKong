@@ -49,24 +49,33 @@ dev.yangkong@gmail.com
 
 ---
 
-<div align=center><h1>📚 What I studied this month 📚</h1></div>
+<div align=center><h1>📝 What I studied this month 📝</h1></div>
 <br/>
 
 <div align=center>
   
 <h2>📅 Month 6 📅</h2>
 
-|   DATE    | DJANGO | DATA |                           PYTHON                           | REACT(WEB) | PROJECT |        CODE TEST        |    _ETC_     |
-| :-------: | :----: | :--: | :-----------------------------------: | :--------: | :-----: | :---------------------: | :----------: |
-| 06/22 THU |        |      | 유데미 28~34. 다중 연속 if문 |            |         | 숫자비교하기 , 나이출력 | _파이썬집중_ |
-| 06/23 FRI |        |      | 유데미 35 피자주문실습 |            |         |                         |  _환경설정_  |
-| 06/24 SAT |        |      | '내 손으로 파이썬' 책 1장 ~ 7장 자료구조 (1) 리스트 까지 |            |         |                         |              |
-| 06/25 SUN |        |      |   '내 손으로 파이썬' 책 1회독 완                                                         |            |         |                         |              |
-| 06/26 MON |        |      |                                                            |            |         |                         |              |
-| 06/27 TUE |        |      |                                                            |            |         |                         |              |
-| 06/28 WED |        |      |                                                            |            |         |                         |              |
-| 06/29 THU |        |      |                                                            |            |         |                         |              |
-| 06/30 FRI |        |      |                                                            |            |         |                         |              |
+|   DATE    | DJANGO | DATA |                          PYTHON                          | REACT(WEB) |       PROJECT/PRACTICE       |          CODE TEST           |    _ETC_     |
+| :-------: | :----: | :--: | :------------------------------------------------------: | :--------: | :--------------------------: | :--------------------------: | :----------: |
+| 06/22 THU |        |      |            유데미 28~34.<br/> 다중 연속 if문             |            |                              | 숫자비교하기 ,<br/> 나이출력 | _파이썬집중_ |
+| 06/23 FRI |        |      |                                                          |            | 유데미 35.<br/> 피자주문실습 |                              |  _환경설정_  |
+| 06/24 SAT |        |      | '내 손으로 파이썬' 책 1장 ~ 7장 자료구조 (1) 리스트 까지 |            |                              |                              |              |
+| 06/25 SUN |        |      |              '내 손으로 파이썬' 책 1회독 완              |            |                              |                              |              |
+| 06/26 MON |        |      |                                                          |            |                              |                              |              |
+| 06/27 TUE |        |      |                                                          |            |                              |                              |              |
+| 06/28 WED |        |      |                                                          |            |                              |                              |              |
+| 06/29 THU |        |      |                                                          |            |                              |                              |              |
+| 06/30 FRI |        |      |                                                          |            |                              |                              |              |
+
+<h3>🔗 Link 🔗</h3>
+
+<a href="https://github.com/DEV-Yangkong/testing-code/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120807.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0">
+숫자비교하기</a><br/>
+<a href="https://github.com/DEV-Yangkong/testing-code/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120820.%E2%80%85%EB%82%98%EC%9D%B4%E2%80%85%EC%B6%9C%EB%A0%A5">
+나이출력</a><br/>
+<a href="https://github.com/DEV-Yangkong/python/tree/main/coding_exercises/day3/Exercise4_Pizza_Order_Practice">
+유데미 35. 피자주문실습</a><br/>
 
 </div align=center>
 
@@ -74,7 +83,7 @@ dev.yangkong@gmail.com
 
 ---
 
-<div align=center><h1>&#128279; TECH STACKS &#128279;</h1></div>
+<div align=center><h1>📚 TECH STACKS 📚</h1></div>
 
 <br/>
 
