@@ -56,7 +56,7 @@ dev.yangkong@gmail.com
   
 <h2>📅 Month 6 📅</h2>
 
-|   DATE    | DJANGO | DATA |                          PYTHON                          | REACT(WEB) |       PROJECT/PRACTICE       |          CODE TEST           |    _ETC_     |
+|   DATE    | DJANGO | DATA |                          PYTHON                          | REACT(WEB) |       PROJECT/PRACTICE       |          CODE TEST/ Math           |    _ETC_     |
 | :-------: | :----: | :--: | :------------------------------------------------------: | :--------: | :--------------------------: | :--------------------------: | :----------: |
 | 06/22 THU |        |      |            유데미 28~34.<br/> 다중 연속 if문             |            |                              | 숫자비교하기 ,<br/> 나이출력 | _파이썬집중_ |
 | 06/23 FRI |        |      |                                                          |            | 유데미 35.<br/> 피자주문실습 |                              |  _환경설정_  |
