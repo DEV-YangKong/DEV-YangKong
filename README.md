@@ -26,7 +26,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-YangKong&count_bg=%23ef476f&title_bg=%23555555&icon=github.svg&icon_color=%23ef476f&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://dev-yangkong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-ffd166?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://dev-yangkong.tistory.com/"/></a>
-<a href="https://www.instagram.com/dev.yangkong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-06d6a0?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/dev_yangkong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-06d6a0?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <br/>
 
