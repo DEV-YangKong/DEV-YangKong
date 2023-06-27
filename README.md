@@ -83,31 +83,47 @@ dev.yangkong@gmail.com
 
 ---
 
-<div align=center><h1>📚 TECH STACKS 📚</h1></div>
+<div align=center><h1>📚 TECH STACKS 📚</h1>
 
 <br/>
 
+![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=compact&theme=radical)
+
+<br/>
+
+</div>
+
 <div align=center>
 
-&#128161; <strong>Used as the main</strong> &#128161;
+&#128161; <strong>Use Well</strong> &#128161;
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br/>
+</div>
 
+<br/>
+
+&#128218; <strong>Studying</strong> &#128218;
+
+<div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <br/>
+  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   </div>
 
 <br/>
 
-&#128218; <strong>Used at least once</strong> &#128218;
+&#128218; <strong>Have used</strong> &#128218;
 
 <div>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
@@ -116,12 +132,9 @@ dev.yangkong@gmail.com
 
 <br/>
 
-&#128151;
+&#128151; <strong>Tools</strong> &#128151;
 
 <div>
-  
-![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=compact&theme=radical)
-<br/>
   <a href="https://dev-yangkong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ffd166?style=for-the-badge&logo=tistory&logoColor=white&link=https://dev-yangkong.tistory.com/"/></a>
   <a href="https://github.com/DEV-Yangkong" target="_blank"><img src="https://img.shields.io/badge/github-cdb4db?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/DEV-Yangkong"></a>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
