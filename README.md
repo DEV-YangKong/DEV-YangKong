@@ -58,8 +58,8 @@ dev.yangkong@gmail.com
 
 |   DATE    | DJANGO | DATA |                          PYTHON                          | REACT(WEB) | PROJECT/PRACTICE |       CODE TEST/ Math        | ENG |
 | :-------: | :----: | :--: | :------------------------------------------------------: | :--------: | :--------------: | :--------------------------: | :-: |
-| 06/22 THU |        |      |                28~34.<br/> 다중 연속 if문                |            |                  | 숫자비교하기 ,<br/> 나이출력 |     |
-| 06/23 FRI |        |      |                                                          |            | 35. 피자주문실습 |                              |     |
+| 06/22 THU |        |      |                1) 28~34.<br/> 다중 연속 if문                |            |                  | 숫자비교하기 ,<br/> 나이출력 |     |
+| 06/23 FRI |        |      |                                                          |            | 1) 35.<br/> 피자주문실습 |                              |     |
 | 06/24 SAT |        |      | '내 손으로 파이썬' 책 1장 ~ 7장 자료구조 (1) 리스트 까지 |            |                  |                              |     |
 | 06/25 SUN |        |      |              '내 손으로 파이썬' 책 1회독 완              |            |                  |                              |     |
 | 06/26 MON |        |      |                                                          |            |                  |                              |     |
@@ -68,14 +68,26 @@ dev.yangkong@gmail.com
 | 06/29 THU |        |      |                                                          |            |                  |                              |     |
 | 06/30 FRI |        |      |                                                          |            |                  |                              |     |
 
-<h3>🔗 Link 🔗</h3>
+<br/>
+
+<h3>👩🏻‍💻 List of online courses I'm taking 👩🏻‍💻</h3>
+<br/>
+1. Python 부트캠프 : 100개의 프로젝트로 Python 개발 완전 정복 <br/>
+2. Django 4 및 Python 풀스택 개발자 마스터 클래스 <br/>
+3. The Web Developer 부트캠프 2023 <br/>
+4. AWS(Amazon Web Service) 입문자를 위한 강의 <br/>
+5. 실무 활용 중심의 MySQL 부트캠프 <br/>
+
+<br/>
+
+<h3>🔗 Links in table contents 🔗</h3>
 
 <a href="https://github.com/DEV-Yangkong/testing-code/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120807.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0">
 숫자비교하기</a><br/>
 <a href="https://github.com/DEV-Yangkong/testing-code/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120820.%E2%80%85%EB%82%98%EC%9D%B4%E2%80%85%EC%B6%9C%EB%A0%A5">
 나이출력</a><br/>
 <a href="https://github.com/DEV-Yangkong/python/tree/main/coding_exercises/day3/Exercise4_Pizza_Order_Practice">
-35. 피자주문실습</a><br/>
+1) 35. 피자주문실습</a><br/>
 
 </div align=center>
 
