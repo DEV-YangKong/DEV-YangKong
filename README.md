@@ -72,11 +72,11 @@ dev.yangkong@gmail.com
 
 <h3>👩🏻‍💻 List of online courses I'm taking 👩🏻‍💻</h3>
 <br/>
-1. Python 부트캠프 : 100개의 프로젝트로 Python 개발 완전 정복 <br/>
-2. Django 4 및 Python 풀스택 개발자 마스터 클래스 <br/>
-3. The Web Developer 부트캠프 2023 <br/>
-4. AWS(Amazon Web Service) 입문자를 위한 강의 <br/>
-5. 실무 활용 중심의 MySQL 부트캠프 <br/>
+1) Python 부트캠프 : 100개의 프로젝트로 Python 개발 완전 정복 <br/>
+2) Django 4 및 Python 풀스택 개발자 마스터 클래스 <br/>
+3) The Web Developer 부트캠프 2023 <br/>
+4) AWS(Amazon Web Service) 입문자를 위한 강의 <br/>
+5) 실무 활용 중심의 MySQL 부트캠프 <br/>
 
 <br/>
 
