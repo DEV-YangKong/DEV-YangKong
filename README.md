@@ -53,7 +53,17 @@ dev.yangkong@gmail.com
 <br/>
 
 <div align=center>
-  
+
+<h2>👩🏻‍💻 List of online courses I'm taking 👩🏻‍💻</h3>
+<br/>
+1) <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br/>
+2) <a href="https://kmooc.udemy.com/course/django-and-python-full-stack-developer-masterclass/">Python and Django Full Stack Web Developer Bootcamp</a> <br/>
+3) <a href="https://kmooc.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp 2023</a> <br/>
+4) <a href="https://kmooc.udemy.com/course/aws-beginner-sk/">AWS(Amazon Web Service) 입문자를 위한 강의</a> <br/>
+5) <a href="https://kmooc.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp</a> <br/>
+
+
+<br/>
 <h2>📅 Month 6 📅</h2>
 
 |   DATE    | DJANGO | DATA |                          PYTHON                          | REACT(WEB) |      PROJECT/<br/>PRACTICE       |     CODE TEST/<br/> Math     |
@@ -67,16 +77,6 @@ dev.yangkong@gmail.com
 | 06/28 WED |        |      |                                                          |            |                                  |                              |
 | 06/29 THU |        |      |                                                          |            |                                  |                              |
 | 06/30 FRI |        |      |                                                          |            |                                  |                              |
-
-<br/>
-
-<h3>👩🏻‍💻 List of online courses I'm taking 👩🏻‍💻</h3>
-<br/>
-1) Python 부트캠프 : 100개의 프로젝트로 Python 개발 완전 정복 <br/>
-2) Django 4 및 Python 풀스택 개발자 마스터 클래스 <br/>
-3) The Web Developer 부트캠프 2023 <br/>
-4) AWS(Amazon Web Service) 입문자를 위한 강의 <br/>
-5) 실무 활용 중심의 MySQL 부트캠프 <br/>
 
 <br/>
 
