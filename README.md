@@ -121,7 +121,7 @@ dev.yangkong@gmail.com
 
 <br/>
 
-&#128218; <strong>Have used</strong> &#128218;
+&#128218; <strong>Have Used</strong> &#128218;
 
 <div>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
