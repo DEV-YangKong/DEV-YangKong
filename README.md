@@ -68,7 +68,7 @@ dev.yangkong@gmail.com
 |   DATE    | DJANGO | DATA |                             PYTHON                             | Front-end |             PROJECT              | PRACTICE |
 | :-------: | :----: | :--: | :------------------------------------------------------------: | :-------: | :------------------------------: | :------: |
 | 06/22 THU |        |      |      1) 28~34.<br/> Multiple If Statements in Succession       |           |                                  |          |
-| 06/23 FRI |        |      |                                                                |           | 1) 35.<br/> Pizza Order Practice |          |
+| 06/23 FRI |        |      |                                                                |           |  |     1) 35.<br/> Pizza Order Practice     |
 | 06/24 SAT |        |      | '내 손으로 파이썬' 책 <br/> 1장 ~ 7장 자료구조 (1) 리스트 까지 |           |                                  |          |
 | 06/25 SUN |        |      |              '내 손으로 파이썬' 책 <br/> 1회독 완              |           |                                  |          |
 | 06/26 MON |        |      |                                                                |           |                                  |          |
