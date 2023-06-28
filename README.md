@@ -56,23 +56,23 @@ dev.yangkong@gmail.com
 
 <h2>👩🏻‍💻 List of online courses I'm taking 👩🏻‍💻</h3>
 <br/>
-1) <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br/>
-2) <a href="https://kmooc.udemy.com/course/django-and-python-full-stack-developer-masterclass/">Python and Django Full Stack Web Developer Bootcamp</a> <br/>
-3) <a href="https://kmooc.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp 2023</a> <br/>
-4) <a href="https://kmooc.udemy.com/course/aws-beginner-sk/">AWS(Amazon Web Service) 입문자를 위한 강의</a> <br/>
-5) <a href="https://kmooc.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp</a> <br/>
+[py] <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br/>
+[back] <a href="https://kmooc.udemy.com/course/django-and-python-full-stack-developer-masterclass/">Python and Django Full Stack Web Developer Bootcamp</a> <br/>
+[front] <a href="https://kmooc.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp 2023</a> <br/>
+[aws] <a href="https://kmooc.udemy.com/course/aws-beginner-sk/">AWS(Amazon Web Service) 입문자를 위한 강의</a> <br/>
+[db] <a href="https://kmooc.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp</a> <br/>
 
 <br/>
 <h2>📅 Month 6 📅</h2>
 
-|     DATE      | DJANGO | DATA |                             PYTHON                             | Front-end | PROJECT |             PRACTICE             |
-| :-----------: | :----: | :--: | :------------------------------------------------------------: | :-------: | :-----: | :------------------------------: |
-| 06/22<br/>THU |        |      |      1) 28~34.<br/> Multiple If Statements in Succession       |           |         |                                  |
-| 06/23<br/>FRI |        |      |                                                                |           |         | 1) 35.<br/> Pizza Order Practice |
-| 06/24<br/>SAT |        |      | '내 손으로 파이썬' 책 <br/> 1장 ~ 7장 자료구조 (1) 리스트 까지 |           |         |                                  |
-| 06/25<br/>SUN |        |      |              '내 손으로 파이썬' 책 <br/> 1회독 완              |           |         |                                  |
-| 06/26<br/>MON |        |      |                                                                |           |         |                                  |
-| 06/27<br/>TUE |        |      |          2) 1~24.<br/> Introduction to Python Basics           |           |         |                                  |
+|     DATE      | BackEnd            | FrontEnd | PROJECT |             PRACTICE             |
+| :-----------: |  :------------------------------------------------------------: | :-------: | :-----: | :------------------------------: |
+| 06/22<br/>THU |    [py] 28~34.<br/> Multiple If Statements in Succession        |      |        |           |         |                                  |
+| 06/23<br/>FRI |                                                                      |           |         | [py] 35.<br/> Pizza Order Practice |
+| 06/24<br/>SAT |    '내 손으로 파이썬' 책: <br/> 1장 ~ 7장 자료구조 (1) 리스트 까지 |           |         |                                  |
+| 06/25<br/>SUN |             '내 손으로 파이썬' 책: <br/> 1회독 완              |           |         |                                  |
+| 06/26<br/>MON |                                                                 |           |         |                                  |
+| 06/27<br/>TUE |         [back] 1~24.<br/> Introduction to Python Basics           |           |         |                                  |
 | 06/28<br/>WED |        |      |                                                                |           |         |                                  |
 | 06/29<br/>THU |        |      |                                                                |           |         |                                  |
 | 06/30<br/>FRI |        |      |                                                                |           |         |                                  |
