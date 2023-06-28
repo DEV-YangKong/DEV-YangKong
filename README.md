@@ -81,10 +81,6 @@ dev.yangkong@gmail.com
 
 <h3>🔗 Links in table contents 🔗</h3>
 
-<a href="https://github.com/DEV-Yangkong/testing-code/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120807.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0">
-숫자비교하기</a><br/>
-<a href="https://github.com/DEV-Yangkong/testing-code/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120820.%E2%80%85%EB%82%98%EC%9D%B4%E2%80%85%EC%B6%9C%EB%A0%A5">
-나이출력</a><br/>
 <a href="https://github.com/DEV-Yangkong/python/tree/main/coding_exercises/day3/Exercise4_Pizza_Order_Practice">
 [py] 35. Pizza Order Practice</a><br/>
 
