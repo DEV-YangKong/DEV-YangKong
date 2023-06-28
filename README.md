@@ -63,6 +63,9 @@ dev.yangkong@gmail.com
 [db] <a href="https://kmooc.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp</a> <br/>
 
 <br/>
+
+---
+
 <h2>📅 Month 6 📅</h2>
 
 |     DATE      | BackEnd            | FrontEnd | PROJECT |             PRACTICE             |
