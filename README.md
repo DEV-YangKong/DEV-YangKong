@@ -153,14 +153,3 @@ dev.yangkong@gmail.com
 
 <br/><br/>
 
----
-
-<br/><br/>
-
-<div align=center>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_yangkong)](https://solved.ac/dev_yangkong/)
-
-</div align=center>
-
-<br/><br/>
