@@ -76,7 +76,7 @@ dev.yangkong@gmail.com
 | 06/25<br/>SUN |             '내 손으로 파이썬' 책: <br/> 1회독 완              |           |         |                                  |
 | 06/26<br/>MON |                                                                 |           |         |                                  |
 | 06/27<br/>TUE |         [back] 1~24.<br/> Introduction to Python Basics           |           |         |                                  |
-| 06/28<br/>WED |        |      |                                                                |           |         |                                  |
+| 06/28<br/>WED |  [db] 1~17.<br/> Create a database       |      |                                                                |           |         |                                  |
 | 06/29<br/>THU |        |      |                                                                |           |         |                                  |
 | 06/30<br/>FRI |        |      |                                                                |           |         |                                  |
 
