@@ -61,10 +61,10 @@
 
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width=440 height=230 src="https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+    <img width=420 height=230 src="https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
   </a>
   <a href="https://git.io/streak-stats" title="Go to Source">
-    <img width=440 height=230 src="http://github-readme-streak-stats.herokuapp.com?user=DEV-Yangkong&hide_border=true&theme=black-ice" alt="" />
+    <img width=420 height=230 src="http://github-readme-streak-stats.herokuapp.com?user=DEV-Yangkong&hide_border=true&theme=black-ice" alt="" />
   </a>
 </div>
 
