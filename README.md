@@ -57,19 +57,6 @@
 
 ---
 
-## 👩🏻‍💻 List of online courses I'm taking 👩🏻‍💻
-
-<br/>
-- [PY] <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br/>
-- [BACK] <a href="https://kmooc.udemy.com/course/django-and-python-full-stack-developer-masterclass/">Python and Django Full Stack Web Developer Bootcamp</a> <br/>
-- [FRONT] <a href="https://kmooc.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide 2023 (incl. React Router & Redux)</a> <br/>
-- [AWS] <a href="https://kmooc.udemy.com/course/aws-beginner-sk/">AWS(Amazon Web Service) 입문자를 위한 강의</a> <br/>
-- [DB] <a href="https://kmooc.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp</a> <br/>
-
-<br/>
-
----
-
 ## Stats
 
 <div align=center>
@@ -85,6 +72,18 @@
 
 ---
 
+## 👩🏻‍💻 List of online courses I'm taking 👩🏻‍💻
+
+<br/>
+- [PY] <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br/>
+- [BACK] <a href="https://kmooc.udemy.com/course/django-and-python-full-stack-developer-masterclass/">Python and Django Full Stack Web Developer Bootcamp</a> <br/>
+- [FRONT] <a href="https://kmooc.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide 2023 (incl. React Router & Redux)</a> <br/>
+- [AWS] <a href="https://kmooc.udemy.com/course/aws-beginner-sk/">AWS(Amazon Web Service) 입문자를 위한 강의</a> <br/>
+- [DB] <a href="https://kmooc.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp</a> <br/>
+
+<br/>
+
+---
 <div align=center>
 
 <h1>Month 6</h1>
