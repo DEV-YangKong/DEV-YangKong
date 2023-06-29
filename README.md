@@ -106,7 +106,7 @@
 <h3>🔗 Links in table contents 🔗</h3>
 
 <a href="https://github.com/DEV-Yangkong/backend-codebase/tree/main/python/coding_exercises/day3/Exercise4_Pizza_Order_Practice">
-[py] 35. Pizza Order Practice</a><br/>
+[PY] 35. Pizza Order Practice</a><br/>
 
 </div align=center>
 
