@@ -37,7 +37,7 @@ dev.yangkong@gmail.com
 
 <br/><br/>
 
-- 👩🏻 Hi there! I'm `Yangkong` (nickname)!
+- 👩🏻 Hi there! I'm `Yangkong` (nickname).
 
 - 👩🏻‍💻 I'm a passionate learner on the path to becoming a Full-Stack Web Developer in <img src="south-korea.png" width=15px height=15px>`South Korea` or the <img src="USA.png" width=15px height=15px>`U.S.A.`
 
