@@ -25,7 +25,7 @@
 
 <br/>
 
-![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=compact&theme=holi)
+![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=compact&theme=highcontrast)
 
 <br/>
 
