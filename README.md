@@ -56,11 +56,9 @@
 ---
 
 ## Stats
-
-<div align=center>
   
-[![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&theme=gruvbox_light&width=380)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=gruvbox-light&width=380)](https://git.io/streak-stats)
+[![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&theme=gruvbox_light&width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=gruvbox-light&width=350)](https://git.io/streak-stats)
 
 <br/><br/>
 
