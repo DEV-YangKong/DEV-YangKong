@@ -87,6 +87,8 @@
 
 <div align=center>
 
+<br/>
+
 <h2>Month 6</h2>
 
 |     DATE      |                             BackEnd                             | FrontEnd | PROJECT |
