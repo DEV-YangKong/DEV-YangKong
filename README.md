@@ -61,10 +61,10 @@
 
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+    <img width=440 height=230 src="https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
   </a>
   <a href="https://git.io/streak-stats" title="Go to Source">
-    <img width=400 height=200 src="http://github-readme-streak-stats.herokuapp.com?user=DEV-Yangkong&hide_border=true&theme=black-ice" alt="" />
+    <img width=440 height=230 src="http://github-readme-streak-stats.herokuapp.com?user=DEV-Yangkong&hide_border=true&theme=black-ice" alt="" />
   </a>
 </div>
 
@@ -93,13 +93,13 @@
 | :-----------: | :-------------------------------------------------------------: | :------: | :-----: |
 | 06/22<br/>THU |      [PY] 28~34.<br/> Multiple If Statements in Succession      |          |         |
 | 06/23<br/>FRI |               [PY] 35.<br/> Pizza Order Practice                |          |         |
-| 06/24<br/>SAT | '내 손으로 파이썬' 책: <br/> 1장 ~ 7장 자료구조 (1) 리스트 까지 |          |         |
-| 06/25<br/>SUN |              '내 손으로 파이썬' 책: <br/> 1회독 완              |          |         |
-| 06/26<br/>MON |                                                                 |          |
-| 06/27<br/>TUE |         [BACK] 1~24.<br/> Introduction to Python Basics         |          |
-| 06/28<br/>WED |                [DB] 1~17.<br/> Create a database                |          |
-| 06/29<br/>THU |                                                                 |          |
-| 06/30<br/>FRI |                                                                 |          |
+| 06/24<br/>SAT |       '내 손으로 파이썬' 책: <br/> 1장 ~ 7장 자료구조 (1) 리스트 까지      |          |         |
+| 06/25<br/>SUN |              '내 손으로 파이썬' 책: <br/> 1회독 완                     |         |         |
+| 06/26<br/>MON |                                                                 |          |         |
+| 06/27<br/>TUE |         [BACK] 1~24.<br/> Introduction to Python Basics         |          |         |
+| 06/28<br/>WED |                [DB] 1~17.<br/> Create a database                |          |         |
+| 06/29<br/>THU |                                                                 |          |         |
+| 06/30<br/>FRI |                                                                 |          |         |
 
 <br/>
 
