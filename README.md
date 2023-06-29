@@ -37,15 +37,17 @@ dev.yangkong@gmail.com
 
 <br/><br/>
 
-👩🏻 Hi there! I'm Yangkong (nickname)!
+- 👩🏻 Hi there! I'm `Yangkong` (nickname)!
 
-👩🏻‍💻 I'm a passionate learner on the path to becoming a Full-Stack Web Developer in South Korea or the U.S.A.
+- 👩🏻‍💻 I'm a passionate learner on the path to becoming a Full-Stack Web Developer in <img src="south-korea.png" width=15px height=15px>`South Korea` or the <img src="USA.png" width=15px height=15px>`U.S.A.`
 
-📖 Currently, I'm enrolled in the OZ Coding School Bootcamp course, which commenced on 05/09/2023 and will conclude on 10/11/2023.
+- 📖 Currently, I'm enrolled in the `OZ Coding School Bootcamp course`, which commenced on 05/09/2023 and will conclude on 10/11/2023.
 
-👩🏻‍🎓 I hold a degree in International Trade from Namseoul University.
+- 👩🏻‍🎓 I hold a degree in `International Trade` from Namseoul University.
 
-Feel free to explore my GitHub profile to witness my growth as a developer!
+- Feel free to explore my GitHub profile to witness my growth as a developer!
+
+
 <br/><br/>
 
 ---
