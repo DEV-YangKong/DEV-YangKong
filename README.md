@@ -48,7 +48,7 @@ dev.yangkong@gmail.com
 
 <br/>
 <div align=center>
-<h3> Feel free to explore my GitHub profile to witness my growth as a developer!</h3>
+<h3> Feel free to explore my GitHub to witness my growth as a developer!</h3>
 </div>
 
 
