@@ -65,7 +65,7 @@ dev.yangkong@gmail.com
 <br/>
 [py] <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br/>
 [back] <a href="https://kmooc.udemy.com/course/django-and-python-full-stack-developer-masterclass/">Python and Django Full Stack Web Developer Bootcamp</a> <br/>
-[front] <a href="https://kmooc.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp 2023</a> <br/>
+[front] <a href="https://kmooc.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide 2023 (incl. React Router & Redux)</a> <br/>
 [aws] <a href="https://kmooc.udemy.com/course/aws-beginner-sk/">AWS(Amazon Web Service) 입문자를 위한 강의</a> <br/>
 [db] <a href="https://kmooc.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp</a> <br/>
 
