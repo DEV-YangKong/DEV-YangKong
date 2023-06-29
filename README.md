@@ -69,16 +69,16 @@ dev.yangkong@gmail.com
 <h2>📅 Month 6 📅</h2>
 
 |     DATE      |                             BackEnd                             | FrontEnd | PROJECT |
-| :-----------: | :-------------------------------------------------------------: | :------: | :-----: | --- | --- |
-| 06/22<br/>THU |      [py] 28~34.<br/> Multiple If Statements in Succession      |          |         |     |     |
+| :-----------: | :-------------------------------------------------------------: | :------: | :-----: |
+| 06/22<br/>THU |      [py] 28~34.<br/> Multiple If Statements in Succession      |          |         |
 | 06/23<br/>FRI |               [py] 35.<br/> Pizza Order Practice                |          |         |
 | 06/24<br/>SAT | '내 손으로 파이썬' 책: <br/> 1장 ~ 7장 자료구조 (1) 리스트 까지 |          |         |
 | 06/25<br/>SUN |              '내 손으로 파이썬' 책: <br/> 1회독 완              |          |         |
-| 06/26<br/>MON |                                                                 |          |         |
-| 06/27<br/>TUE |         [back] 1~24.<br/> Introduction to Python Basics         |          |         |
-| 06/28<br/>WED |                [db] 1~17.<br/> Create a database                |          |         |     |     |
-| 06/29<br/>THU |                                                                 |          |         |     |     |
-| 06/30<br/>FRI |                                                                 |          |         |     |     |
+| 06/26<br/>MON |                                                                 |          |
+| 06/27<br/>TUE |         [back] 1~24.<br/> Introduction to Python Basics         |          |
+| 06/28<br/>WED |                [db] 1~17.<br/> Create a database                |          |
+| 06/29<br/>THU |                                                                 |          |
+| 06/30<br/>FRI |                                                                 |          |
 
 <br/>
 
