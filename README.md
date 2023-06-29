@@ -21,51 +21,36 @@
 
 ---
 
-<div align=center><h1>📚 TECH STACKS 📚</h1></div>
+## STACKS
 
 <br/>
-<div align=center>
 
 ![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=compact&theme=holi)
 
-</div>
 <br/>
 
-<div align=center>
-
-&#128161; <strong>Use Well</strong> &#128161;
+💡 My Stacks
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br/>
+
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 <br/>
 
-📖 <strong>Studying</strong> 📖
+📖 Wanna get Stacks
 
 <div>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <br/>
-  
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  </div>
-
-<br/>
-
-📝 <strong>Have Used It At Least Once</strong> 📝
-
-<div>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-232F3E?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 <br/>
@@ -78,8 +63,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-</div>
-
 <br/><br/>
 
 ---
@@ -88,7 +71,7 @@
 
 <div align=center>
 
-<h2>👩🏻‍💻 List of online courses I'm taking 👩🏻‍💻</h3>
+<h2>👩🏻‍💻 List of online courses I'm taking 👩🏻‍💻</h2>
 <br/>
 [py] <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br/>
 [back] <a href="https://kmooc.udemy.com/course/django-and-python-full-stack-developer-masterclass/">Python and Django Full Stack Web Developer Bootcamp</a> <br/>
@@ -131,19 +114,15 @@
 
 ---
 
-### stats :
+### Stats
 
 <div align=center>
-
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align=left width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
-    </a>
-    <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align=right width=400 height=200 src="http://github-readme-streak-stats.herokuapp.com?user=DEV-Yangkong&hide_border=true&theme=black-ice" alt="" />
-    </a>
-  </div>
-  
-  </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align=left width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+  </a>
+  <a href="https://git.io/streak-stats" title="Go to Source">
+    <img align=right width=400 height=200 src="http://github-readme-streak-stats.herokuapp.com?user=DEV-Yangkong&hide_border=true&theme=black-ice" alt="" />
+  </a>
+</div>
 
 <br/><br/>
