@@ -62,7 +62,7 @@
 <div align=center>
   
 [![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&theme=gruvbox_light&card_width=300&align=left)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DEV-Yangkong&theme=gruvbox-light&card_width=400&align=right)](https://git.io/streak-stats)
+[![Yangkong's GitHub Streak](https://streak-stats.demolab.com/?user=DEV-Yangkong&theme=gruvbox-light&card_width=400&align=right)](https://git.io/streak-stats)
 
 </div>
 <br/><br/>
