@@ -96,7 +96,7 @@
 | 06/27<br/>TUE |         [BACK] 1~24.<br/> Introduction to Python Basics         |          |         |
 | 06/28<br/>WED |                [DB] 1~17.<br/> Create a database                |          |         |
 | 06/29<br/>THU |    [BACK] 25~31 .<br/>Python Control Flow - If, Else If, Else      |          |         |
-| 06/30<br/>FRI |                                                                 |          |         |
+| 06/30<br/>FRI |    [BACK] 32~ 35.<br/>Introduction to Python: Prefab     |          |         |
 
 <br/>
 
