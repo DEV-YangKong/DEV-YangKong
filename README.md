@@ -25,7 +25,7 @@
 
 <br/>
 
-![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=compact&theme=gruvbox_light)
+[![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
