@@ -9,7 +9,7 @@
 
 - 👩🏻‍💻 I'm a passionate learner on the path to becoming a Full-Stack Web Developer in <img src="south-korea.png" width=15px height=15px>`South Korea` or the <img src="USA.png" width=15px height=15px>`U.S.A.`
 
-- 📖 Currently, I'm enrolled in the `OZ Coding School Bootcamp course`.
+- 📖 Currently, I'm enrolled in the OZ Coding School `Bootcamp course`.
 
 - 👩🏻‍🎓 I hold a degree in `International Trade` from Namseoul University.
 
