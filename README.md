@@ -5,6 +5,8 @@
 [![instagram](https://img.shields.io/badge/Yangkong's_instagram-06d6a0?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_yangkong/)
 [![mail](https://img.shields.io/badge/dev.yangkong@gmail.com-118ab2?style=flat&logo=Gmail&logoColor=white)](mailto:dev.yangkong@gmail.com)
 
+<br/>
+
 - 👋🏻 Hi there I'm `Yangkong`.
 
 - 👩🏻‍💻 I'm a passionate learner on the path to becoming a Full-Stack Web Developer in <img src="./img/south-korea.png" width=15px height=15px>`South Korea` or the <img src="./img/USA.png" width=15px height=15px>`U.S.A.`
