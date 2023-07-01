@@ -7,7 +7,7 @@
 
 - 👋🏻 Hi there I'm `Yangkong`.
 
-- 👩🏻‍💻 I'm a passionate learner on the path to becoming a Full-Stack Web Developer in <img src="south-korea.png" width=15px height=15px>`South Korea` or the <img src="USA.png" width=15px height=15px>`U.S.A.`
+- 👩🏻‍💻 I'm a passionate learner on the path to becoming a Full-Stack Web Developer in <img src="./img/south-korea.png" width=15px height=15px>`South Korea` or the <img src="./img/USA.png" width=15px height=15px>`U.S.A.`
 
 - 📖 Currently, I'm enrolled in the OZ Coding School `Bootcamp course`.
 
@@ -98,28 +98,6 @@
 | 07/07<br/>FRI |         |          |         |
 | 07/08<br/>SAT |         |          |         |
 | 07/09<br/>SUN |         |          |         |
-| 07/10<br/>MON |         |          |         |
-| 07/11<br/>TUE |         |          |         |
-| 07/12<br/>WED |         |          |         |
-| 07/13<br/>THU |         |          |         |
-| 07/14<br/>FRI |         |          |         |
-| 07/15<br/>SAT |         |          |         |
-| 07/16<br/>SUN |         |          |         |
-| 07/17<br/>MON |         |          |         |
-| 07/18<br/>TUE |         |          |         |
-| 07/19<br/>WED |         |          |         |
-| 07/20<br/>THU |         |          |         |
-| 07/21<br/>FRI |         |          |         |
-| 07/22<br/>SAT |         |          |         |
-| 07/23<br/>SUN |         |          |         |
-| 07/24<br/>MON |         |          |         |
-| 07/25<br/>TUE |         |          |         |
-| 07/26<br/>WED |         |          |         |
-| 07/27<br/>THU |         |          |         |
-| 07/28<br/>FRI |         |          |         |
-| 07/29<br/>SAT |         |          |         |
-| 07/30<br/>SUN |         |          |         |
-| 07/31<br/>MON |         |          |         |
 
 <br/>
 
