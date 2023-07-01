@@ -81,29 +81,49 @@
 <br/>
 
 ---
+
 <div align=center>
 
-<h1>Month 6</h1>
+<h1>Month 7</h1>
 <br/>
 
-|     DATE      |                             BackEnd                             | FrontEnd | PROJECT |
-| :-----------: | :-------------------------------------------------------------: | :------: | :-----: |
-| 06/22<br/>THU |      [PY] 28~34.<br/> Multiple If Statements in Succession      |          |         |
-| 06/23<br/>FRI |               [PY] 35.<br/> Pizza Order Practice                |          |         |
-| 06/24<br/>SAT |       '내 손으로 파이썬' 책: <br/> 1장 ~ 7장 자료구조 (1) 리스트 까지      |          |         |
-| 06/25<br/>SUN |              '내 손으로 파이썬' 책: <br/> 1회독 완                     |         |         |
-| 06/26<br/>MON |                                                                 |          |         |
-| 06/27<br/>TUE |         [BACK] 1~24.<br/> Introduction to Python Basics         |          |         |
-| 06/28<br/>WED |                [DB] 1~17.<br/> Create a database                |          |         |
-| 06/29<br/>THU |    [BACK] 25~31 .<br/>Python Control Flow - If, Else If, Else      |          |         |
-| 06/30<br/>FRI |    [BACK] 32~ 35.<br/>Introduction to Python: Prefab     |          |         |
+|     DATE      | BackEnd | FrontEnd | PROJECT |
+| :-----------: | :-----: | :------: | :-----: |
+| 07/01<br/>SAT |         |          |         |
+| 07/02<br/>SUN |         |          |         |
+| 07/03<br/>MON |         |          |         |
+| 07/04<br/>TUE |         |          |         |
+| 07/05<br/>WED |         |          |         |
+| 07/06<br/>THU |         |          |         |
+| 07/07<br/>FRI |         |          |         |
+| 07/08<br/>SAT |         |          |         |
+| 07/09<br/>SUN |         |          |         |
+| 07/10<br/>MON |         |          |         |
+| 07/11<br/>TUE |         |          |         |
+| 07/12<br/>WED |         |          |         |
+| 07/13<br/>THU |         |          |         |
+| 07/14<br/>FRI |         |          |         |
+| 07/15<br/>SAT |         |          |         |
+| 07/16<br/>SUN |         |          |         |
+| 07/17<br/>MON |         |          |         |
+| 07/18<br/>TUE |         |          |         |
+| 07/19<br/>WED |         |          |         |
+| 07/20<br/>THU |         |          |         |
+| 07/21<br/>FRI |         |          |         |
+| 07/22<br/>SAT |         |          |         |
+| 07/23<br/>SUN |         |          |         |
+| 07/24<br/>MON |         |          |         |
+| 07/25<br/>TUE |         |          |         |
+| 07/26<br/>WED |         |          |         |
+| 07/27<br/>THU |         |          |         |
+| 07/28<br/>FRI |         |          |         |
+| 07/29<br/>SAT |         |          |         |
+| 07/30<br/>SUN |         |          |         |
+| 07/31<br/>MON |         |          |         |
 
 <br/>
 
 <h3>🔗 Links in table contents 🔗</h3>
-
-<a href="https://github.com/DEV-Yangkong/backend-codebase/tree/main/python/coding_exercises/day3/Exercise4_Pizza_Order_Practice">
-[PY] 35. Pizza Order Practice</a><br/>
 
 </div align=center>
 
