@@ -84,7 +84,7 @@
 
 <div align=center>
 
-<h1>Month 7</h1>
+<h1>This Week</h1>
 <br/>
 
 |     DATE      | BackEnd | FrontEnd | PROJECT |
