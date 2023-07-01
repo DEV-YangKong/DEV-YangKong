@@ -93,7 +93,10 @@
 
 ---
 
-<h2>🔗 Links in table contents 🔗</h2>
+## 🔗 Links in table contents 🔗
+
+<br/>
+
 <a href="https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/03_TreasureIsland">TreasureIsland</a>
 
 <br/><br/>
