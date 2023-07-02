@@ -77,17 +77,17 @@
 
 <br/>
 
-|     DATE      |                BackEnd                 | FrontEnd |      PROJECT      |
-| :-----------: | :------------------------------------: | :------: | :---------------: |
-| 07/01<br/>SAT | [PY] 37.</br> Project: Treasure Island |          |  TreasureIsland   |
-| 07/02<br/>SUN |                                        |          | RockPaperScissors |
-| 07/03<br/>MON |                                        |          |                   |
-| 07/04<br/>TUE |                                        |          |                   |
-| 07/05<br/>WED |                                        |          |                   |
-| 07/06<br/>THU |                                        |          |                   |
-| 07/07<br/>FRI |                                        |          |                   |
-| 07/08<br/>SAT |                                        |          |                   |
-| 07/09<br/>SUN |                                        |          |                   |
+|     DATE      |                  BackEnd                  | FrontEnd |      PROJECT      |
+| :-----------: | :---------------------------------------: | :------: | :---------------: |
+| 07/01<br/>SAT | [PY] 35~37.</br> Project: Treasure Island |          |  TreasureIsland   |
+| 07/02<br/>SUN |                                           |          | RockPaperScissors |
+| 07/03<br/>MON |                                           |          |                   |
+| 07/04<br/>TUE |                                           |          |                   |
+| 07/05<br/>WED |                                           |          |                   |
+| 07/06<br/>THU |                                           |          |                   |
+| 07/07<br/>FRI |                                           |          |                   |
+| 07/08<br/>SAT |                                           |          |                   |
+| 07/09<br/>SUN |                                           |          |                   |
 
 </div>
 
@@ -95,8 +95,8 @@
 
 <div align=center>
 
-  <h3><em>At the bottom, you'll find the list of online courses I'm currently taking.
-  <br/>Additionally, the links to my projects can also be found below.</em>
+  <h3><em>At the bottom, you'll find the links to my projects.
+  <br/>Additionally, the list of online courses can also be found below.</em>
   </h3>
 
 </div>
@@ -108,21 +108,17 @@
 ## 🔗 Links in table contents 🔗
 
 <br/>
-
-- <a href="https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/03_TreasureIsland">TreasureIsland</a>
-- <a href="https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/04_RockPaperScissors">RockPaperScissors</a>
+### Folder List Links :
+- <a href="https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython">[PY]</a>
+- <a href="https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev">[BACK]</a>
+- <a href="https://github.com/DEV-Yangkong/frontend_codebase">[FRONT]</a>
+- <a href="https://github.com/DEV-Yangkong/backend_codebase/tree/main/database">[DB]</a>
 
 <br/><br/>
 
----
+### Project List Links :
 
-## 👩🏻‍💻 List of online courses I'm taking 👩🏻‍💻
-
-<br/>
-- [PY] <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br/>
-- [BACK] <a href="https://kmooc.udemy.com/course/django-and-python-full-stack-developer-masterclass/">Python and Django Full Stack Web Developer Bootcamp</a> <br/>
-- [FRONT] <a href="https://kmooc.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide 2023 (incl. React Router & Redux)</a> <br/>
-- [AWS] <a href="https://kmooc.udemy.com/course/aws-beginner-sk/">AWS(Amazon Web Service) 입문자를 위한 강의</a> <br/>
-- [DB] <a href="https://kmooc.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/">The Ultimate MySQL Bootcamp</a> <br/>
+- <a href="https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/03_TreasureIsland">TreasureIsland</a>
+- <a href="https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/04_RockPaperScissors">RockPaperScissors</a>
 
 <br/><br/>
