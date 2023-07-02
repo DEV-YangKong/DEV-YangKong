@@ -95,8 +95,7 @@
 
 <div align=center>
 
-  <em>At the bottom, you'll find the links to my projects.
-  <br/>Additionally, the list of online courses can also be found below.</em>
+  <em>Below, you will find the links to the content listed in the table</em>
   
 </div>
 
