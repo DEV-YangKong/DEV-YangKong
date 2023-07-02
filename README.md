@@ -78,17 +78,17 @@
 <em>The list of online courses I'm taking is located at the bottom</em>
 <br/><br/>
 
-|     DATE      |                BackEnd                 | FrontEnd |    PROJECT     |
-| :-----------: | :------------------------------------: | :------: | :------------: |
-| 07/01<br/>SAT | [PY] 37.</br> Project: Treasure Island |          | TreasureIsland |
-| 07/02<br/>SUN |                                        |          |                |
-| 07/03<br/>MON |                                        |          |                |
-| 07/04<br/>TUE |                                        |          |                |
-| 07/05<br/>WED |                                        |          |                |
-| 07/06<br/>THU |                                        |          |                |
-| 07/07<br/>FRI |                                        |          |                |
-| 07/08<br/>SAT |                                        |          |                |
-| 07/09<br/>SUN |                                        |          |                |
+|     DATE      |                BackEnd                 | FrontEnd |      PROJECT      |
+| :-----------: | :------------------------------------: | :------: | :---------------: |
+| 07/01<br/>SAT | [PY] 37.</br> Project: Treasure Island |          |  TreasureIsland   |
+| 07/02<br/>SUN |                                        |          | RockPaperScissors |
+| 07/03<br/>MON |                                        |          |                   |
+| 07/04<br/>TUE |                                        |          |                   |
+| 07/05<br/>WED |                                        |          |                   |
+| 07/06<br/>THU |                                        |          |                   |
+| 07/07<br/>FRI |                                        |          |                   |
+| 07/08<br/>SAT |                                        |          |                   |
+| 07/09<br/>SUN |                                        |          |                   |
 
 </div>
 <br/>
@@ -100,6 +100,7 @@
 <br/>
 
 - <a href="https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/03_TreasureIsland">TreasureIsland</a>
+- <a href="https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/04_RockPaperScissors">RockPaperScissors</a>
 
 <br/><br/>
 
