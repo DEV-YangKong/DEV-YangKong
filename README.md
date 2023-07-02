@@ -109,20 +109,20 @@
 
 ### Folder List Links:
 
-| Folder List Links | Description  | Links                                                                               |
-| ----------------- | ------------ | ----------------------------------------------------------------------------------- |
-| [PY]              | python       | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
-| [BACK]            | back-end     | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev)  |
-| [FRONT]           | front-end    | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
-| [DB]              | 데이터베이스 | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database)         |
+| Folder List Links | Description | Links                                                                               |
+| ----------------- | ----------- | ----------------------------------------------------------------------------------- |
+| [PY]              | python      | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
+| [BACK]            | back-end    | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev)  |
+| [FRONT]           | front-end   | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
+| [DB]              | Database    | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database)         |
 
 <br/>
 
 ### Project List Links:
 
-| Project List Links | Description                | Links                                                                                                               |
-| ------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| TreasureIsland     | TreasureIsland 프로젝트    | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/03_TreasureIsland)    |
-| RockPaperScissors  | RockPaperScissors 프로젝트 | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/04_RockPaperScissors) |
+| Project List Links | Description                 | Links                                                                                                               |
+| ------------------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| TreasureIsland     | Project : TreasureIsland    | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/03_TreasureIsland)    |
+| RockPaperScissors  | Project : RockPaperScissors | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/04_RockPaperScissors) |
 
 <br/>
