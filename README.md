@@ -95,10 +95,9 @@
 
 <div align=center>
 
-  <h3><em>At the bottom, you'll find the links to my projects.
+  <em>At the bottom, you'll find the links to my projects.
   <br/>Additionally, the list of online courses can also be found below.</em>
-  </h3>
-
+  
 </div>
 
 <br/>
