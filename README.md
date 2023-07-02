@@ -77,17 +77,17 @@
 
 <br/>
 
-|     DATE      |                  BackEnd                  | FrontEnd |      PROJECT      |
-| :-----------: | :---------------------------------------: | :------: | :---------------: |
-| 07/01<br/>SAT | [PY] 35~37.</br> Project: Treasure Island |          |  TreasureIsland   |
-| 07/02<br/>SUN |                                           |          | RockPaperScissors |
-| 07/03<br/>MON |                                           |          |                   |
-| 07/04<br/>TUE |                                           |          |                   |
-| 07/05<br/>WED |                                           |          |                   |
-| 07/06<br/>THU |                                           |          |                   |
-| 07/07<br/>FRI |                                           |          |                   |
-| 07/08<br/>SAT |                                           |          |                   |
-| 07/09<br/>SUN |                                           |          |                   |
+|     DATE      |                  BackEnd                   | FrontEnd |          PROJECT           |
+| :-----------: | :----------------------------------------: | :------: | :------------------------: |
+| 07/01<br/>SAT |  [PY] 35~37.<br/>Project: Treasure Island  |          |  [PY]<br/>TreasureIsland   |
+| 07/02<br/>SUN | [PY] 38~47.<br/>Project: RockPaperScissors |          | [PY]<br/>RockPaperScissors |
+| 07/03<br/>MON |                                            |          |                            |
+| 07/04<br/>TUE |                                            |          |                            |
+| 07/05<br/>WED |                                            |          |                            |
+| 07/06<br/>THU |                                            |          |                            |
+| 07/07<br/>FRI |                                            |          |                            |
+| 07/08<br/>SAT |                                            |          |                            |
+| 07/09<br/>SUN |                                            |          |                            |
 
 </div>
 
