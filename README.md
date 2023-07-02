@@ -111,9 +111,9 @@
 
 | Folder List Links | Description | Links                                                                               |
 | ----------------- | ----------- | ----------------------------------------------------------------------------------- |
-| [PY]              | python      | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
-| [BACK]            | back-end    | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev)  |
-| [FRONT]           | front-end   | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
+| [PY]              | Python      | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
+| [BACK]            | Back-end    | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev)  |
+| [FRONT]           | Front-end   | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
 | [DB]              | Database    | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database)         |
 
 <br/>
