@@ -93,9 +93,13 @@
 
 <br/>
 
-<h3><em>At the bottom, you'll find the list of online courses I'm currently taking.
-<br/>Additionally, the links to my projects can also be found below.</em>
-</h3>
+<<div align=center>>
+
+  <h3><em>At the bottom, you'll find the list of online courses I'm currently taking.
+  <br/>Additionally, the links to my projects can also be found below.</em>
+  </h3>
+  
+</div>
 
 <br/>
 
