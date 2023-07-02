@@ -109,12 +109,12 @@
 
 ### Folder List Links:
 
-| Folder List Links | Description                                                                                                                   | Links                                                                               |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [PY]              | This folder contains materials and projects from the "100 Days of Code: Python" bootcamp.                                     | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
-| [BACK]            | This folder contains materials and projects from the "Python and Django Full Stack Web Developer Bootcamp" course.            | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev)  |
-| [FRONT]           | This repository serves as a collection of my study materials, projects, and coding exercises related to frontend development. | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
-| [DB]              | This folder is dedicated to showcasing my personal journey of studying and exploring database management systems.             | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database)         |
+| Folder List Links | Description | Links                                                                               |
+| ----------------- | ----------- | ----------------------------------------------------------------------------------- |
+| [PY]              | Python      | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
+| [BACK]            | Back-end    | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev)  |
+| [FRONT]           | Front-end   | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
+| [DB]              | Database    | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database)         |
 
 <br/>
 
