@@ -74,8 +74,12 @@
 <div align=center>
 
 <h1>🗓️ This Week 🗓️</h1>
+
 <br/>
-<em>The list of online courses I'm taking is located at the bottom</em>
+
+<em>At the bottom, you'll find the list of online courses I'm currently taking.
+<br/>Additionally, the links to my projects can also be found below.</em>
+
 <br/><br/>
 
 |     DATE      |                BackEnd                 | FrontEnd |      PROJECT      |
