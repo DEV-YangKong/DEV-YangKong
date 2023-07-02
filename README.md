@@ -122,7 +122,7 @@
 
 | Project List Links | Description                 | Links                                                                                                               |
 | ------------------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| TreasureIsland     | Project : TreasureIsland    | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/03_TreasureIsland)    |
-| RockPaperScissors  | Project : RockPaperScissors | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/04_RockPaperScissors) |
+| TreasureIsland     | Your mission is to find the hidden treasure on the island by making the right choices along the way.   | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/03_TreasureIsland)    |
+| RockPaperScissors  | This is a simple Rock-Paper-Scissors game implemented in Python. | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/04_RockPaperScissors) |
 
 <br/>
