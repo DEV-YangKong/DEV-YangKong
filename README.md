@@ -77,12 +77,6 @@
 
 <br/>
 
-<h3><em>At the bottom, you'll find the list of online courses I'm currently taking.
-<br/>Additionally, the links to my projects can also be found below.</em>
-</h3>
-
-<br/>
-
 |     DATE      |                BackEnd                 | FrontEnd |      PROJECT      |
 | :-----------: | :------------------------------------: | :------: | :---------------: |
 | 07/01<br/>SAT | [PY] 37.</br> Project: Treasure Island |          |  TreasureIsland   |
@@ -96,6 +90,13 @@
 | 07/09<br/>SUN |                                        |          |                   |
 
 </div>
+
+<br/>
+
+<h3><em>At the bottom, you'll find the list of online courses I'm currently taking.
+<br/>Additionally, the links to my projects can also be found below.</em>
+</h3>
+
 <br/>
 
 ---
