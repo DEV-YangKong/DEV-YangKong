@@ -9,7 +9,7 @@
 
 - 👋🏻 Hi there I'm `Yangkong`.
 
-- 👩🏻‍💻 I'm a passionate learner on the path to becoming a Full-Stack Web Developer in <img src="./img/south-korea.png" width=15px height=15px>`South Korea` or the <img src="./img/USA.png" width=15px height=15px>`U.S.A.`
+- 👩🏻‍💻 I'm a passionate learner on the path to becoming a Full-Stack Web Developer in <img src="./01_img/south-korea.png" width=15px height=15px>`South Korea` or the <img src="./01_img/USA.png" width=15px height=15px>`U.S.A.`
 
 - 📖 Currently, I'm enrolled in the OZ Coding School `Bootcamp course`.
 
