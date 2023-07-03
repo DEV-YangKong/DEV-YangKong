@@ -27,7 +27,7 @@
 
 <br/>
 
-[![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=donut&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+[![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=donut&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
