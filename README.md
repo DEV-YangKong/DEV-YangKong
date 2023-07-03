@@ -77,17 +77,17 @@
 
 <br/>
 
-|     DATE      |                  BackEnd                   | FrontEnd |          PROJECT           |
-| :-----------: | :----------------------------------------: | :------: | :------------------------: |
-| 07/01<br/>SAT |  [PY] 35~37.<br/>Project: Treasure Island  |          |  [PY]<br/>TreasureIsland   |
-| 07/02<br/>SUN | [PY] 38~47.<br/>Project: RockPaperScissors |          | [PY]<br/>RockPaperScissors |
-| 07/03<br/>MON |                                            |          |                            |
-| 07/04<br/>TUE |                                            |          |                            |
-| 07/05<br/>WED |                                            |          |                            |
-| 07/06<br/>THU |                                            |          |                            |
-| 07/07<br/>FRI |                                            |          |                            |
-| 07/08<br/>SAT |                                            |          |                            |
-| 07/09<br/>SUN |                                            |          |                            |
+|     DATE      | <a href="https://github.com/DEV-Yangkong/backend_codebase" target="_blank">BackEnd</a> | <a href="https://github.com/DEV-Yangkong/frontend_codebase" target="_blank">FrontEnd</a> | <a href="https://github.com/DEV-Yangkong/my_project_archive" target="_blank">PROJECT</a> |
+| :-----------: | :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| 07/01<br/>SAT |                        [PY] 35~37.<br/>Project: Treasure Island                        |                                                                                          |                                 [PY]<br/>TreasureIsland                                  |
+| 07/02<br/>SUN |                       [PY] 38~47.<br/>Project: RockPaperScissors                       |                                                                                          |                                [PY]<br/>RockPaperScissors                                |
+| 07/03<br/>MON |                                                                                        |                                                                                          |                                                                                          |
+| 07/04<br/>TUE |                                                                                        |                                                                                          |                                                                                          |
+| 07/05<br/>WED |                                                                                        |                                                                                          |                                                                                          |
+| 07/06<br/>THU |                                                                                        |                                                                                          |                                                                                          |
+| 07/07<br/>FRI |                                                                                        |                                                                                          |                                                                                          |
+| 07/08<br/>SAT |                                                                                        |                                                                                          |                                                                                          |
+| 07/09<br/>SUN |                                                                                        |                                                                                          |                                                                                          |
 
 </div>
 
@@ -109,12 +109,13 @@
 
 ### Folder List Links:
 
-| Folder List | Description                                                                                                                                                                                                                                             | Links                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [PY]        | 100 Days of Code: Python - Materials and projects from a comprehensive Python bootcamp covering a wide range of tools and technologies, including scripting, game development, web scraping, data science, GUI applications, version control, and more. | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
-| [BACK]      | Full Stack Web Developer Bootcamp - Materials and projects from a comprehensive Python and Django course covering HTML, CSS, JavaScript, jQuery, Bootstrap, Django basics, ORM, REST APIs, user authentication, and more.                               | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev)  |
-| [FRONT]     | The Web Developer - A comprehensive repository containing study materials, projects, and coding exercises focused on frontend development, covering HTML5, CSS3, JavaScript, ReactJS, and more.                                                         | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
-| [DB]        | Database Hub - A collection of projects and studies focused on database management systems, covering SQL syntax, aggregate functions, complex queries, schema design, and more.                                                                         | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database)         |
+| Folder List Links | Description                                                                                                                                               | Links                                                                               |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [PY]              | 100 Days of Code: Python - Materials and projects from a comprehensive Python bootcamp covering a wide range of tools and technologies.                   | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
+| [BACK]            | Full Stack Web Developer Bootcamp - Materials and projects from a comprehensive Python and Django course.                                                 | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev)  |
+| [FRONT]           | The Web Developer - A comprehensive repository containing study materials and projects focused on frontend development.                                   | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
+| [DB]              | Database Hub - A collection of projects and studies focused on database management systems.                                                               | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database)         |
+| [Project]         | My Project Archive - A collection of personal projects and assignments covering various technologies and domains, each with an overview and instructions. | [link](https://github.com/DEV-Yangkong/my_project_archive)                          |
 
 <br/>
 
