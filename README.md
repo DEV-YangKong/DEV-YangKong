@@ -109,12 +109,18 @@
 
 ### Folder List Links:
 
-| Folder List Links | Description                                                                                                                   | Links                                                                               |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [PY]              | This folder contains materials and projects from the "100 Days of Code: Python" bootcamp.                                     | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
-| [BACK]            | This folder contains materials and projects from the "Python and Django Full Stack Web Developer Bootcamp" course.            | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev)  |
-| [FRONT]           | This repository serves as a collection of my study materials, projects, and coding exercises related to frontend development. | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
-| [DB]              | This folder is dedicated to showcasing my personal journey of studying and exploring database management systems.             | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database)         |
+| Folder List Links                                                                   | Description                                                                                                                                                                                                                                             | Links |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [PY]                                                                                | 100 Days of Code: Python - Materials and projects from a comprehensive Python bootcamp covering a wide range of tools and technologies, including scripting, game development, web scraping, data science, GUI applications, version control, and more. |
+| [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
+| [BACK]                                                                              | Full Stack Web Developer Bootcamp - Materials and projects from a comprehensive Python and Django course covering HTML, CSS, JavaScript, jQuery, Bootstrap, Django basics, ORM, REST APIs, user authentication, and more.                               |
+
+``
+| [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev) |
+| [FRONT] | The Web Developer - A comprehensive repository containing study materials, projects, and coding exercises focused on frontend development, covering HTML5, CSS3, JavaScript, ReactJS, and more.
+| [link](https://github.com/DEV-Yangkong/frontend_codebase) |
+| [DB] |Database Hub - A collection of projects and studies focused on database management systems, covering SQL syntax, aggregate functions, complex queries, schema design, and more.
+| [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database) |
 
 <br/>
 
