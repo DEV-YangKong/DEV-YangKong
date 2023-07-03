@@ -27,7 +27,7 @@
 
 <br/>
 
-[![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=donut&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=donut&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
@@ -63,8 +63,8 @@
 
 <div align=center>
   
-[![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&theme=gruvbox_light&card_width=300&align=left)](https://github.com/anuraghazra/github-readme-stats)
-[![Yangkong's GitHub Streak](https://streak-stats.demolab.com/?user=DEV-Yangkong&theme=gruvbox-light&card_width=400&align=right)](https://git.io/streak-stats)
+[![Yangkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Yangkong&theme=gruvbox_light&card_width=280&align=left)](https://github.com/anuraghazra/github-readme-stats)
+[![Yangkong's GitHub Streak](https://streak-stats.demolab.com/?user=DEV-Yangkong&theme=gruvbox-light&card_width=380&align=right)](https://git.io/streak-stats)
 
 </div>
 <br/><br/>
