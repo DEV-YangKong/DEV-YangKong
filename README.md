@@ -109,26 +109,20 @@
 
 ### Folder List Links:
 
-| Folder List Links                                                                   | Description                                                                                                                                                                                                                                             | Links |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [PY]                                                                                | 100 Days of Code: Python - Materials and projects from a comprehensive Python bootcamp covering a wide range of tools and technologies, including scripting, game development, web scraping, data science, GUI applications, version control, and more. |
-| [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
-| [BACK]                                                                              | Full Stack Web Developer Bootcamp - Materials and projects from a comprehensive Python and Django course covering HTML, CSS, JavaScript, jQuery, Bootstrap, Django basics, ORM, REST APIs, user authentication, and more.                               |
-
-``
-| [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev) |
-| [FRONT] | The Web Developer - A comprehensive repository containing study materials, projects, and coding exercises focused on frontend development, covering HTML5, CSS3, JavaScript, ReactJS, and more.
-| [link](https://github.com/DEV-Yangkong/frontend_codebase) |
-| [DB] |Database Hub - A collection of projects and studies focused on database management systems, covering SQL syntax, aggregate functions, complex queries, schema design, and more.
-| [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database) |
+| Folder List | Description                                                                                                                                                                                                                                             | Links                                                                               |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [PY]        | 100 Days of Code: Python - Materials and projects from a comprehensive Python bootcamp covering a wide range of tools and technologies, including scripting, game development, web scraping, data science, GUI applications, version control, and more. | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/DaysOfCodePython) |
+| [BACK]      | Full Stack Web Developer Bootcamp - Materials and projects from a comprehensive Python and Django course covering HTML, CSS, JavaScript, jQuery, Bootstrap, Django basics, ORM, REST APIs, user authentication, and more.                               | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/FullStackWebDev)  |
+| [FRONT]     | The Web Developer - A comprehensive repository containing study materials, projects, and coding exercises focused on frontend development, covering HTML5, CSS3, JavaScript, ReactJS, and more.                                                         | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
+| [DB]        | Database Hub - A collection of projects and studies focused on database management systems, covering SQL syntax, aggregate functions, complex queries, schema design, and more.                                                                         | [link](https://github.com/DEV-Yangkong/backend_codebase/tree/main/database)         |
 
 <br/>
 
 ### Project List Links:
 
-| Project List Links | Description                                                                                          | Links                                                                                                               |
-| ------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| TreasureIsland     | Your mission is to find the hidden treasure on the island by making the right choices along the way. | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/03_TreasureIsland)    |
-| RockPaperScissors  | This is a simple Rock-Paper-Scissors game implemented in Python.                                     | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/04_RockPaperScissors) |
+| Project List      | Description                                                                                          | Links                                                                                                               |
+| ----------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| TreasureIsland    | Your mission is to find the hidden treasure on the island by making the right choices along the way. | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/03_TreasureIsland)    |
+| RockPaperScissors | This is a simple Rock-Paper-Scissors game implemented in Python.                                     | [link](https://github.com/DEV-Yangkong/my_project_archive/tree/main/back-end/DaysOfCodePython/04_RockPaperScissors) |
 
 <br/>
