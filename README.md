@@ -125,6 +125,6 @@
 | ----------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | TreasureIsland    | Your mission is to find the hidden treasure on the island by making the right choices along the way. | [link](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/CodeAssignments/BackEnd/DaysOfCodePython/03_TreasureIsland)    |
 | RockPaperScissors | This is a simple Rock-Paper-Scissors game implemented in Python.                                     | [link](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/CodeAssignments/BackEnd/DaysOfCodePython/04_RockPaperScissors) |
-| PasswordGenerator | blank                                                                                                | [link](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/CodeAssignments/BackEnd/DaysOfCodePython/05_PasswordGenerator)) |
+| PasswordGenerator | blank                                                                                                | [link](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/CodeAssignments/BackEnd/DaysOfCodePython/05_PasswordGenerator) |
 
 <br/>
