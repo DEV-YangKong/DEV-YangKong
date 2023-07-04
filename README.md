@@ -77,7 +77,7 @@
 
 <br/>
 
-|     DATE      | <a href="https://github.com/DEV-Yangkong/BackendCodebase" target="_blank">BackEnd</a> | <a href="https://github.com/DEV-Yangkong/FrontendCodebase" target="_blank">FrontEnd</a> | <a href="https://github.com/DEV-Yangkong/MyProjectArchive" target="_blank">PROJECT</a> |
+|     DATE      | <a href="https://github.com/DEV-Yangkong/BackendCodebase">BackEnd</a> | <a href="https://github.com/DEV-Yangkong/FrontendCodebase">FrontEnd</a> | <a href="https://github.com/DEV-Yangkong/MyProjectArchive">PROJECT</a> |
 | :-----------: | :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | 07/01<br/>SAT |                        [PY] 35~37.<br/>Project: Treasure Island                        |                                                                                          |                                 [PY]<br/>TreasureIsland                                  |
 | 07/02<br/>SUN |                       [PY] 38~47.<br/>Project: RockPaperScissors                       |                                                                                          |                                [PY]<br/>RockPaperScissors                                |
