@@ -121,18 +121,6 @@
 
 <br/>
 
-### Folder List Links:
-
-| Folder List Links | Description                                                                                                                                               | Links                                                                               |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [PY]              | 100 Days of Code: Python - Materials and projects from a comprehensive Python bootcamp covering a wide range of tools and technologies.                   | [link](https://github.com/DEV-Yangkong/BackendCodebase/tree/main/DaysOfCodePython) |
-| [BACK]            | Full Stack Web Developer Bootcamp - Materials and projects from a comprehensive Python and Django course.                                                 | [link](https://github.com/DEV-Yangkong/BackendCodebase/tree/main/FullStackWebDev)  |
-| [FRONT]           | The Web Developer - A comprehensive repository containing study materials and projects focused on frontend development.                                   | [link](https://github.com/DEV-Yangkong/frontend_codebase)                           |
-| [DB]              | Database Hub - A collection of projects and studies focused on database management systems.                                                               | [link](https://github.com/DEV-Yangkong/BackendCodebase/tree/main/DataBase)         |
-| [Project]         | My Project Archive - A collection of personal projects and assignments covering various technologies and domains, each with an overview and instructions. | [link](https://github.com/DEV-Yangkong/MyProjectArchive)                          |
-
-<br/>
-
 ### Project List Links:
 
 | Project List      | Description                                                                                          | Links                                                                                                               |
