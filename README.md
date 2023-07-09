@@ -101,7 +101,7 @@
 | 07/06<br/>THU |             [PY] 65~68.<br/> Challenge 1- Pick a random word and check the answer                                                                           |                                                                                          |                                                                                          |
 | 07/07<br/>FRI |                                                                                        |                                                                                          |                                                                                          |
 | 07/08<br/>SAT |                                                                                        |                                                                                          |                                                                                          |
-| 07/09<br/>SUN |                                                                                        |                                                                                          |                                                                                          |
+| 07/09<br/>SUN |            [BACK] 24~34<br/> 복습 Python function                                                                            |                                                                                          |                                                                                          |
 
 </div>
 
