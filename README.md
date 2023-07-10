@@ -99,14 +99,14 @@
 
 <br/>
 
-|     DATE      | <a href="https://github.com/DEV-Yangkong/BackendCodebase">BackEnd</a> | <a href="https://github.com/DEV-Yangkong/FrontendCodebase">FrontEnd</a> | <a href="https://github.com/DEV-Yangkong/MyProjectArchive">PROJECT</a> |
-| :-----------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| 07/10<br/>MON |                                                                       |                                                                         |                                                                        |
-| 07/11<br/>TUE |                                                                       |                                                                         |                                                                        |
-| 07/12<br/>WED |                                                                       |                                                                         |                                                                        |
-| 07/13<br/>THU |                                                                       |                                                                         |                                                                        |
-| 07/14<br/>FRI |                                                                       |                                                                         |                                                                        |
-| 07/15<br/>SAT |                                                                       |                                                                         |                                                                        |
+|     DATE      | <a href="https://github.com/DEV-Yangkong/BackendCodebase">BackEnd</a> |         <a href="https://github.com/DEV-Yangkong/FrontendCodebase">FrontEnd</a>         | <a href="https://github.com/DEV-Yangkong/MyProjectArchive">PROJECT</a> |
+| :-----------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| 07/10<br/>MON |                                                                       | [REACT]1~14.<br/> Exports와 Imports,<br/>[JS]142~161.<br/>Random number and Math object |                                                                        |
+| 07/11<br/>TUE |                                                                       |                                                                                         |                                                                        |
+| 07/12<br/>WED |                                                                       |                                                                                         |                                                                        |
+| 07/13<br/>THU |                                                                       |                                                                                         |                                                                        |
+| 07/14<br/>FRI |                                                                       |                                                                                         |                                                                        |
+| 07/15<br/>SAT |                                                                       |                                                                                         |                                                                        |
 
 </div>
 
