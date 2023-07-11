@@ -103,7 +103,7 @@
 
 |     DATE      | <a href="https://github.com/DEV-Yangkong/BackendCodebase">BackEnd</a> |             <a href="https://github.com/DEV-Yangkong/FrontendCodebase">FrontEnd</a>             | <a href="https://github.com/DEV-Yangkong/MyProjectArchive">PROJECT</a> |
 | :-----------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| 07/10<br/>MON |                                                                       | [REACT] 01 ~ 14.<br/> Exports and Imports, <br/> [JS] 142 ~ 176.<br/>Switch Condition Statement |                                                                        |
+| 07/10<br/>MON |                                                                       | [REACT] 01 ~ 14.<br/> Exports and Imports, <br/> [JS] 142 ~ 176.<br/>Switch Condition Statement |                               MoodCraft                                |
 | 07/11<br/>TUE |                                                                       |                                                                                                 |                                                                        |
 | 07/12<br/>WED |                                                                       |                                                                                                 |                                                                        |
 | 07/13<br/>THU |                                                                       |                                                                                                 |                                                                        |
@@ -130,8 +130,8 @@
 
 ### Project List Links:
 
-| Project List | Description | Links |
-| ------------ | ----------- | ----- |
-|              |             |       |
+| Project List | Description                                                                                                                            | Links                                             |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| MoodCraft    | 팀 토이 프로젝트 : 🍹주류🍹 심리테스트<br/>MoodCraft는 사용자의 기분과 상황에 따라 술을 추천해주는 작은 규모의 팀 토이 프로젝트입니다. | [link](https://github.com/DEV-Yangkong/MoodCraft) |
 
 <br/>
