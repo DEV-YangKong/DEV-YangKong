@@ -124,7 +124,7 @@
 
 ---
 
-## 🔗 Links in table contents 🔗
+## 🔗 Project List Links 🔗
 
 <br/>
 
