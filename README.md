@@ -101,14 +101,16 @@
 
 <br/>
 
-|     DATE      | <a href="https://github.com/DEV-Yangkong/BackendCodebase">BackEnd</a> |             <a href="https://github.com/DEV-Yangkong/FrontendCodebase">FrontEnd</a>             | <a href="https://github.com/DEV-Yangkong/MyProjectArchive">PROJECT</a> |
-| :-----------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| 07/10<br/>MON |                                                                       | [REACT] 01 ~ 14.<br/> Exports and Imports, <br/> [JS] 142 ~ 176.<br/>Switch Condition Statement |                               MoodCraft                                |
-| 07/11<br/>TUE |                                                                       |                                                                                                 |                               MoodCraft                                |
-| 07/12<br/>WED |                                                                       |                                                                                                 |                               MoodCraft                                |
-| 07/13<br/>THU |                                                                       |                                                                                                 |                               MoodCraft                                |
-| 07/14<br/>FRI |                                                                       |                                                                                                 |                               MoodCraft                                |
-| 07/15<br/>SAT |                                                                       |                                                                                                 |                               MoodCraft                                |
+|     DATE      | <a href="https://github.com/DEV-Yangkong/BackendCodebase">BackEnd</a> | <a href="https://github.com/DEV-Yangkong/FrontendCodebase">FrontEnd</a> | <a href="https://github.com/DEV-Yangkong/MyProjectArchive">PROJECT</a> |
+| :-----------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| 07/16<br/>SUN |                                                                       |                                                                         |                               MoodCraft                                |
+| 07/17<br/>MON |                                                                       |                                                                         |                               MoodCraft                                |
+| 07/18<br/>TUE |                                                                       |                                                                         |                                                                        |
+| 07/19<br/>WED |                                                                       |                                                                         |                                                                        |
+| 07/20<br/>THU |                                                                       |                                                                         |                                                                        |
+| 07/21<br/>FRI |                                                                       |                                                                         |                                                                        |
+| 07/22<br/>SAT |                                                                       |                                                                         |                                                                        |
+| 07/23<br/>SUN |                                                                       |                                                                         |                                                                        |
 
 </div>
 
