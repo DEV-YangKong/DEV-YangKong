@@ -112,11 +112,7 @@
 | 07/22<br/>SAT |                                       |         |           |
 | 07/23<br/>SUN |                                       |         |           |
 
-</div>
-
 <br/>
-
-<div align=center>
 
 <em>Below, you will find the links to the content listed in the table</em>
 
