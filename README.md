@@ -108,7 +108,7 @@
 | 07/18<br/>TUE |                                                                         |                                                                       |                                                                        |
 | 07/19<br/>WED |                                                                         |                                                                       |                                                                        |
 | 07/20<br/>THU |                  [JS]177~189. Creating object literals                  |                                                                       |                                                                        |
-| 07/21<br/>FRI |                                                                         |                                                                       |                                                                        |
+| 07/21<br/>FRI |           [JS]190~197. Array loop                                                                  |                                                                       |                                                                        |
 | 07/22<br/>SAT |                                                                         |                                                                       |                                                                        |
 | 07/23<br/>SUN |                                                                         |                                                                       |                                                                        |
 
