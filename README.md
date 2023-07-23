@@ -101,16 +101,16 @@
 
 <br/>
 
-|     DATE      |               FrontEnd                | BackEnd |  PROJECT  |
-| :-----------: | :-----------------------------------: | :-----: | :-------: |
-| 07/16<br/>SUN |                                       |         | MoodCraft |
-| 07/17<br/>MON |                                       |         | MoodCraft |
-| 07/18<br/>TUE |                                       |         |           |
-| 07/19<br/>WED |                                       |         |           |
-| 07/20<br/>THU | [JS]177~189. Creating object literals |         |           |
-| 07/21<br/>FRI |        [JS]190~197. Array loop        |         |           |
-| 07/22<br/>SAT |                                       |         |           |
-| 07/23<br/>SUN |                                       |         |           |
+|     DATE      | FrontEnd | BackEnd | PROJECT |
+| :-----------: | :------: | :-----: | :-----: |
+| 07/24<br/>MON |          |         |         |
+| 07/25<br/>TUE |          |         |         |
+| 07/26<br/>WED |          |         |         |
+| 07/27<br/>THU |          |         |         |
+| 07/28<br/>FRI |          |         |         |
+| 07/29<br/>SAT |          |         |         |
+| 07/30<br/>SUN |          |         |         |
+| 07/31<br/>MON |          |         |         |
 
 <br/>
 
