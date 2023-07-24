@@ -102,16 +102,16 @@
 
 <br/>
 
-|     DATE      | FrontEnd | BackEnd | PROJECT |
-| :-----------: | :------: | :-----: | :-----: |
-| 07/24<br/>MON |          |         |         |
-| 07/25<br/>TUE |          |         |         |
-| 07/26<br/>WED |          |         |         |
-| 07/27<br/>THU |          |         |         |
-| 07/28<br/>FRI |          |         |         |
-| 07/29<br/>SAT |          |         |         |
-| 07/30<br/>SUN |          |         |         |
-| 07/31<br/>MON |          |         |         |
+|     DATE      | FrontEnd | BackEnd | PROJECT  |
+| :-----------: | :------: | :-----: | :------: |
+| 07/24<br/>MON |          |         | ToDoList |
+| 07/25<br/>TUE |          |         |          |
+| 07/26<br/>WED |          |         |          |
+| 07/27<br/>THU |          |         |          |
+| 07/28<br/>FRI |          |         |          |
+| 07/29<br/>SAT |          |         |          |
+| 07/30<br/>SUN |          |         |          |
+| 07/31<br/>MON |          |         |          |
 
 <br/>
 
@@ -131,9 +131,9 @@
 
 <div align=center>
 
-| Project List | Description | Links |
-| ------------ | ----------- | ----- |
-|              |             |       |
+| Project List | Description                                                                                                                                                              | Links                                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| ToDoList     | `HTML과 JavaScript만으로 구현된 🗓️Todo List 앱.`<br/>A simple Todo List app in HTML and JavaScript for managing tasks,<br/>allowing users to add, list, and remove todos | [link](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/MiniProject/ToDoList) |
 
 <br/>
 </div>
