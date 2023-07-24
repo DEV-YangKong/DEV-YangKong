@@ -131,7 +131,7 @@
 
 <div align=center>
 
-| Project Lists /<br/> Links                                                                  | Description                                                                                                                                                          |
+| Project Lists<br/>(Links)                                                                   | Description                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ToDoList](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/MiniProject/ToDoList) | `HTML과 JavaScript만으로 구현된 🗓️Todo List 앱.`<br/>A simple Todo List app in HTML and JavaScript for managing tasks, allowing users to add, list, and remove todos |
 
