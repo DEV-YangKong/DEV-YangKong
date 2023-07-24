@@ -125,8 +125,6 @@
 
 ## 🔗 This week Project List 🔗
 
-### Project List:
-
 <div align=center>
 
 | Project Lists<br/>(Links)                                                                   | Description                                                                                                                                                          |
