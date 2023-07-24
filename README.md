@@ -121,9 +121,7 @@
 
 <br/>
 
----
-
-## 🔗 This week Project List 🔗
+### 🔗 Project List 🔗
 
 <div align=center>
 
