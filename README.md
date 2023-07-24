@@ -123,11 +123,11 @@
 
 ---
 
-## 🔗 Project List Links 🔗
+## 🔗 This week Project List 🔗
 
 <br/>
 
-### Project List Links:
+### Project List:
 
 <div align=center>
 
@@ -135,5 +135,7 @@
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ToDoList](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/MiniProject/ToDoList) | `HTML과 JavaScript만으로 구현된 🗓️Todo List 앱.`<br/>A simple Todo List app in HTML and JavaScript for managing tasks, allowing users to add, list, and remove todos |
 
+<br/>
+<em><a href="https://github.com/DEV-Yangkong/MyProjectArchive">Click this link</a> if you want to check out my other personal projects!</em>
 <br/>
 </div>
