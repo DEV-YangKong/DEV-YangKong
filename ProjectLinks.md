@@ -1,4 +1,6 @@
-### Project List Links:
+### 🔗 Project List 🔗
+
+<div align=center>
 
 | Project List<br/>(Links)                                                                                                                      | Description                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7,3 +9,6 @@
 | [PasswordGenerator](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/CodeAssignments/BackEnd/DaysOfCodePython/05_PasswordGenerator) | A simple Python program that generates random passwords based on user preferences, with customizable complexity levels.                                                                                                                           |
 | [LiLacStudio](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/WebCreations/LiLacStudio)                                            | I'm currently developing a website for Lilac Studio, an upcoming indie game company. The website will showcase their projects, convey their vision, and engage with the audience, generating anticipation for their upcoming indie game releases. |
 | [MoodCraft](https://github.com/DEV-Yangkong/MoodCraft)                                                                                        | 팀 토이 프로젝트 : 🍹주류🍹 심리테스트<br/>MoodCraft는 사용자의 기분과 상황에 따라 술을 추천해주는 작은 규모의 팀 토이 프로젝트입니다. <br/>MoodCraft: Personalized drink recommendations based on your mood and situation.                       |
+
+<br/>
+</div>
