@@ -111,16 +111,14 @@
 
 <br/>
 
-|     DATE      |                      IOS                      |                             WEB                              | PROJECT  |
-| :-----------: | :-------------------------------------------: | :----------------------------------------------------------: | :------: |
-| 07/24<br/>MON |                                               |                    [JS]198~206. ToDoList                     | ToDoList |
-| 07/25<br/>TUE |                                               | [JS]207~212. keyword return,<br/>p_40: Last Element Exercise |          |
-| 07/26<br/>WED |                                               |       [JS]213~226. Map Method,<br/>p_47: Map Practice        |          |
-| 07/27<br/>THU |                                               |                                                              |          |
-| 07/28<br/>FRI |                                               |                                                              |          |
-| 07/29<br/>SAT |                                               |                                                              |          |
-| 07/30<br/>SUN |       [SWIFT] 섹션3-1 컴퓨터의 동작원리       |                                                              |          |
-| 07/31<br/>MON | [SWIFT] 섹션3-1~3 메모리의 저장방식에 대한 이해  |                                                              |          |
+|     DATE      | IOS | WEB | PROJECT |
+| :-----------: | :-: | :-: | :-----: |
+| 08/01<br/>TUE |     |     |         |
+| 08/02<br/>WED |     |     |         |
+| 08/03<br/>THU |     |     |         |
+| 08/04<br/>FRI |     |     |         |
+| 08/05<br/>SAT |     |     |         |
+| 08/06<br/>SUN |     |     |         |
 
 <br/>
 
@@ -134,9 +132,9 @@
 
 <div align=center>
 
-| Project Lists<br/>(Links)                                                                   | Description                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ToDoList](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/MiniProject/ToDoList) | `HTML과 JavaScript만으로 구현된 🗓️Todo List 앱.`<br/>A simple Todo List app in HTML and JavaScript for managing tasks, allowing users to add, list, and remove todos |
+| Project Lists<br/>(Links) | Description |
+| ------------------------- | ----------- |
+|                           |             |
 
 <br/>
 <em><a href="https://github.com/DEV-Yangkong/MyProjectArchive">Click this link</a> if you want to check out my other personal projects!</em>
