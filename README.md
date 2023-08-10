@@ -117,6 +117,7 @@
 
 | Project Lists<br/>(Links)                              | Description                                                                                      |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+|[LiLacStudio](https://github.com/DEV-Yangkong/MyProjectArchive/tree/main/WebCreations/LiLacStudio)                                            | 저는 현재 곧 출시될 인디 게임 회사인 라일락 스튜디오를 위한 웹 사이트를 개발하고 있습니다. 이 웹 사이트는 그들의 게임을 소개하고 비전을 전달하며, 앞으로 출시될 게임에 대한 기대를 불러일으킬 것입니다. |
 | [Team_IMCA](https://github.com/DEV-Yangkong/Team_IMCA) | 연극과 뮤지컬 일정을 편리하게 확인하고 공유하는 예술 커뮤니티를 위한 캘린더 서비스를 개발합니다. |
 
 <br/>
