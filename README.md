@@ -121,6 +121,4 @@
 | [Team_IMCA]| 연극과 뮤지컬 일정을 편리하게 확인하고 공유하는 예술 커뮤니티를 위한 캘린더 서비스를 개발합니다. |
 
 <br/>
-<em><a href="https://github.com/DEV-Yangkong/MyProjectArchive">Click this link</a> if you want to check out my other personal projects!</em>
-<br/>
 </div>
