@@ -45,22 +45,14 @@
 
 <br/>
 
-💛 dipped my toes in
-
-<div>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-
-<br/>
-
 📖 The stacks I'm currently studying
 
 <div>
-  <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
   
 </div>
+
+<br/>
 
 <br/>
 
@@ -68,24 +60,10 @@
 
 <div>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=Next.Js&logoColor=white">
-  
-</div>
-
-<br>
-
-<div>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/docker-232F3E?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white">
 </div>
 
 <br/><br/>
@@ -119,7 +97,7 @@
 | Project Lists<br/>(Links)                              | Description                                                                                      |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 |[LiLacStudio] | 저는 현재 곧 출시될 인디 게임 회사인 라일락 스튜디오를 위한 웹 사이트를 개발하고 있습니다. <br/> 이 웹 사이트는 그들의 게임을 소개하고 비전을 전달하며, 앞으로 출시될 게임에 대한 기대를 불러일으킬 것입니다. |
-| [Team_IMCA]| 연극과 뮤지컬 일정을 편리하게 확인하고 공유하는 예술 커뮤니티를 위한 캘린더 서비스를 개발합니다. |
+
 
 <br/>
 </div>
