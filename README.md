@@ -45,21 +45,20 @@
 
 <br/>
 
+📖 The stacks I'm currently studying
+
+<div>
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+  
+</div>
+
+<br/>
+
 💛 dipped my toes in
 
 <div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-
-<br/>
-
-📖 The stacks I'm currently studying
-
-<div>
-  <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
-  
 </div>
 
 <br/>
