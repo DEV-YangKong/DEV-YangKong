@@ -12,7 +12,7 @@
 - 📖 Having a blast with development,<br/>
   💖 I'm exploring various studies and not defining myself as a specific type of developer yet, eager to keep learning.
 
-- 👩🏻‍💻 I'm a passionate learner on the path to becoming a IOS Developer in <img src="./01_img/south-korea.png" width=15px height=15px>`South Korea` or the <img src="./01_img/USA.png" width=15px height=15px>`U.S.A.`
+- 👩🏻‍💻 I'm a passionate learner on the path to becoming a IOS Developer in <img src="./01_img/south-korea.png" width=15px height=15px>`South Korea` or the <img src="./01_img/USA.png" width=15px height=15px>`U.S.A.`.
 
 - 👩🏻‍🎓 I hold a degree in `International Trade`.
 
