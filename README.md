@@ -1,5 +1,9 @@
 ## Welcome to Yangkong's Github
 
+<div align=center>
+  <img width=50% height=350px src="https://blog.kakaocdn.net/dn/KvuUx/btstX2WrzVp/pCMv9oTQN83zxjBhzL9fX1/img.gif" />
+</div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-Yangkong%2Fhit-counter&count_bg=%23F7DF76&title_bg=%23AAAAA&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![blog](https://img.shields.io/badge/Yangkong's_Blog-ffd166?style=flat&logo=tistory&logoColor=white)](https://dev-yangkong.tistory.com/)
 [![instagram](https://img.shields.io/badge/Yangkong's_instagram-06d6a0?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hi._.yangkong/)
@@ -94,10 +98,9 @@
 
 <div align=center>
 
-| Project Lists<br/>(Links)                              | Description                                                                                      |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-|[LiLacStudio] | 저는 현재 곧 출시될 인디 게임 회사인 라일락 스튜디오를 위한 웹 사이트를 개발하고 있습니다. <br/> 이 웹 사이트는 그들의 게임을 소개하고 비전을 전달하며, 앞으로 출시될 게임에 대한 기대를 불러일으킬 것입니다. |
-
+| Project Lists<br/>(Links) | Description                                                                                                                                                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [LiLacStudio]             | 저는 현재 곧 출시될 인디 게임 회사인 라일락 스튜디오를 위한 웹 사이트를 개발하고 있습니다. <br/> 이 웹 사이트는 그들의 게임을 소개하고 비전을 전달하며, 앞으로 출시될 게임에 대한 기대를 불러일으킬 것입니다. |
 
 <br/>
 </div>
