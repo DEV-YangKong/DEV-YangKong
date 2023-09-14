@@ -8,9 +8,9 @@
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-Yangkong%2Fhit-counter&count_bg=%23F7DF76&title_bg=%23AAAAA&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![blog](https://img.shields.io/badge/Yangkong's_Blog-ffd166?style=flat&logo=tistory&logoColor=white)](https://dev-yangkong.tistory.com/)
-[![instagram](https://img.shields.io/badge/Yangkong's_instagram-06d6a0?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hi._.yangkong/)
-[![mail](https://img.shields.io/badge/dev.yangkong@gmail.com-118ab2?style=flat&logo=Gmail&logoColor=white)](mailto:dev.yangkong@gmail.com)
+[![blog](https://img.shields.io/badge/Yangkong's_Blog-cdb4db?style=flat&logo=tistory&logoColor=white)](https://dev-yangkong.tistory.com/)
+[![instagram](https://img.shields.io/badge/Yangkong's_instagram-ffafcc?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hi._.yangkong/)
+[![mail](https://img.shields.io/badge/dev.yangkong@gmail.com-bde0fe?style=flat&logo=Gmail&logoColor=white)](mailto:dev.yangkong@gmail.com)
 
 </div>
 
