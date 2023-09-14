@@ -1,7 +1,7 @@
 ## Welcome to Yangkong's Github
 
 <div align=center>
-  <img width=50% height=350px src="https://blog.kakaocdn.net/dn/KvuUx/btstX2WrzVp/pCMv9oTQN83zxjBhzL9fX1/img.gif" />
+  <img width=50% height=350px src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMX65A%2Fbtst537Npy7%2F7TeKVw7kQhEmeyG7ehG2Hk%2Fimg.png" />
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-Yangkong%2Fhit-counter&count_bg=%23F7DF76&title_bg=%23AAAAA&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
